@@ -7,14 +7,46 @@ description: >-
 
 # Ansible
 
-### Installation
+### Installation - Mac
 
-###
+{% code title="HomeBrew" %}
+```
+brew install ansible
+```
+{% endcode %}
 
-### Client Authentication
 
-1. SSH with user and password&#x20;
-2. SSH Keys
+
+### Installation - Linux
+
+```
+sudo yum install epel-release
+sudo yum install ansible
+```
+
+### Edit Host List
+
+{% code title="Ansible-Server" %}
+```
+sudo su
+vi /etc/ansible/hosts
+```
+{% endcode %}
+
+Add the ip or host on the file&#x20;
+
+```
+//exit sudo 
+crtl d
+```
+
+
+
+
+
+1.
+2. SSH with user and password
+3. SSH Keys
 
 ###
 

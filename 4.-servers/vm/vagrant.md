@@ -46,6 +46,17 @@ vagrant init gusztavvargadr/windows-server
 ```
 {% endcode %}
 
+**Enable Public Network**&#x20;
+
+```
+cd ~/Documents/Vagrant/Centos
+vi Vagrantfile
+```
+
+Remove #&#x20;
+
+****<img src="../../.gitbook/assets/Screen Shot 2022-05-10 at 6.15.53 pm.png" alt="" data-size="original">****
+
 **Start VM**
 
 ```
