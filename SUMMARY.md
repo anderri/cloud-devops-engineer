@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Capability](README.md)
-
 ## 1. Programming Languages
 
-* [Python](1.-programming-languages/python.md)
+* [Python](README.md)
 * [Java Script](1.-programming-languages/java-script.md)
 
 ## 2. Server Administration
@@ -31,7 +29,7 @@
 * [Caching](4.-servers/caching.md)
 * [Database](4.-servers/database.md)
 * [RAID](4.-servers/raid.md)
-* [Brew](4.-servers/brew.md)
+* [Brew - Package Manager](4.-servers/brew.md)
 * [Bash](4.-servers/bash.md)
 * [PowerShell](4.-servers/powershell.md)
 
@@ -63,3 +61,7 @@
 
 * [YAML](files-extensions/yaml.md)
 * [JSON](files-extensions/json.md)
+
+***
+
+* [Capability](<README (1).md>)

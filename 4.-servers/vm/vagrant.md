@@ -6,8 +6,17 @@ description: Tool for building and managing virtual machine environments
 
 ### Boxes Respository
 
-[https://app.vagrantup.com/boxes/search](https://app.vagrantup.com/boxes/search)\
+[https://app.vagrantup.com/boxes/search](https://app.vagrantup.com/boxes/search)\\
 
+### Install Vagrant&#x20;
+
+
+
+```
+brew install vagrant
+```
+
+###
 
 ### Main Commands
 
@@ -19,9 +28,9 @@ mkdir VM
 ```
 {% endcode %}
 
-****
+***
 
-**Create a Vagrant file**&#x20;
+**Create a Vagrant file**
 
 {% code title="Centos" %}
 ```
@@ -31,7 +40,7 @@ vagrant init centos/7
 
 {% code title="WindowsServer2012r2" %}
 ```
-vagrant init win-2012r2-standard-amd64-nocm
+vagrant init gusztavvargadr/windows-server
 ```
 {% endcode %}
 
@@ -41,13 +50,6 @@ vagrant init win-2012r2-standard-amd64-nocm
 vagrant up
 ```
 
-
-
-&#x20; Other commands: destroy, connect, halt (shutdown).&#x20;
-
-
-
-
+Other commands: destroy, connect, halt (shutdown).
 
 {% embed url="https://www.youtube.com/watch?v=VRzjkUJz-9U" %}
-

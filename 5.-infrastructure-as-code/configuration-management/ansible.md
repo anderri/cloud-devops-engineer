@@ -9,7 +9,14 @@ description: >-
 
 ### Installation
 
+###
 
+### Client Authentication
+
+1. SSH with user and password&#x20;
+2. SSH Keys
+
+###
 
 ### Main Commands
 
@@ -26,10 +33,3 @@ vim /etc/ansible/hosts
 ###
 
 ### Documentation
-
-
-
-
-
-
-

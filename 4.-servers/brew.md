@@ -1,20 +1,18 @@
-# Brew
+---
+description: PACKAGE MANAGER
+---
 
+# Brew - Package Manager
 
+### Website -> [https://brew.sh/](https://brew.sh)
 
-### Website -> [https://brew.sh/](https://brew.sh) 
-
-
-
-### How to install?&#x20;
+### How to install?
 
 ```batch
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-
-
-### Basic Commands&#x20;
+### Basic Commands
 
 {% code title="Install Software" %}
 ```
