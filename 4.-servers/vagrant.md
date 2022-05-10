@@ -8,9 +8,7 @@ description: Tool for building and managing virtual machine environments
 
 [https://app.vagrantup.com/boxes/search](https://app.vagrantup.com/boxes/search)\\
 
-### Install Vagrant&#x20;
-
-
+### Install Vagrant
 
 ```
 brew install vagrant
@@ -50,6 +48,24 @@ vagrant init gusztavvargadr/windows-server
 vagrant up
 ```
 
-Other commands: destroy, connect, halt (shutdown).
+**Connect**
+
+```
+vagrant ssh
+```
+
+**Shutdown (Halt)**
+
+```
+vagrant halt
+```
+
+**Delete**
+
+```
+vagrant destroy
+```
+
+
 
 {% embed url="https://www.youtube.com/watch?v=VRzjkUJz-9U" %}
