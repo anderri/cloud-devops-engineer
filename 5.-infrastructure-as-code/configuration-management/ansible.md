@@ -42,11 +42,21 @@ crtl d
 
 
 
+### Create SSH Key
+
+{% code title="Ansible-Server" %}
+```
+cd .ssh
+ssh-keygen
+```
+{% endcode %}
+
+Keys will be created: id\__rsa and id_\_rsa.pub.&#x20;
 
 
-1.
-2. SSH with user and password
-3. SSH Keys
+
+1. SSH with user and password
+2. SSH Keys
 
 ###
 
