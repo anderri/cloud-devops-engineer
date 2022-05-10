@@ -24,7 +24,7 @@
 
 * [Web Servers](4.-servers/web-servers/README.md)
   * [Apache](4.-servers/web-servers/apache.md)
-* [Vagrant](4.-servers/vagrant.md)
+* [Vagrant](4.-servers/vm/vagrant.md)
 * [Caching](4.-servers/caching.md)
 * [Database](4.-servers/database.md)
 * [RAID](4.-servers/raid.md)
