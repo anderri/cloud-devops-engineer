@@ -29,7 +29,6 @@
 * [Caching](4.-servers/caching.md)
 * [Database](4.-servers/database.md)
 * [RAID](4.-servers/raid.md)
-* [Brew - Package Manager](4.-servers/brew.md)
 * [Bash](4.-servers/bash.md)
 * [PowerShell](4.-servers/powershell.md)
 * [Virtual Box](4.-servers/virtual-box.md)
