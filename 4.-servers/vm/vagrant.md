@@ -24,7 +24,7 @@ brew install vagrant
 
 {% code title="Example" %}
 ```
-mkdir ~/DocumentsVagrant/Centos
+mkdir ~/Document/Vagrant/Centos
 cd ..
 mkdir ~/DocumentsVagrant/WindowsServer
 ```
