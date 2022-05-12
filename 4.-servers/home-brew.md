@@ -20,13 +20,37 @@ brew install mas
 ```
 {% endcode %}
 
-### Update AppleStore installed softwares&#x20;
+{% code title="bundle" %}
+```
+brew bundle
+```
+{% endcode %}
+
+### Backup Software List
+
+Create a list of software installed from AppleStore and Terminal Software. Save the file brewfile into your cloud storage.&#x20;
+
+```
+brew bundle dump --all --force --describe
+```
+
+
+
+###
+
+### Software Update
+
+```
+sudo softwareupdate -ia -verbose ; brew bundle -v ; brew cleanup ; brew doctor --verbose
+```
+
+### Update - AppleStore Software
 
 ```
 mas upgrade
 ```
 
-### &#x20;Update Terminal installed Softwares
+### &#x20;Update - Terminal Software
 
 ```
 brew upgrade
@@ -34,11 +58,10 @@ brew upgrade
 
 
 
-### Create a list of software installed from AppleStore and Terminal Software
+### &#x20;Restore Software List&#x20;
 
 ```
-brew bundle dump --all --force --description
-cat brewfile 
+brew upgrade
 ```
 
 
