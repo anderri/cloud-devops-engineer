@@ -34,43 +34,9 @@ Create a list of software installed from AppleStore and Terminal Software. Save 
 brew bundle dump --all --force --describe
 ```
 
-### Create a Brewfile from all installed packages
-
-```
-brew bundle dump
-```
-
-### Install packages from a Brewfile at the current path
-
-```
-brew bundle
-```
-
-### Install packages from a specific Brewfile at a specific path
-
-```
-brew bundle --file=[path/to/file]
-```
 
 
-
-### Uninstall all formulae not listed in the Brewfile
-
-```
-brew bundle cleanup --force
-```
-
-### Check if there is anything to install or upgrade in the Brewfile
-
-```
-brew bundle check
-```
-
-### Output a list of all entries in the Brewfile
-
-```
-brew bundle list --all
-```
+###
 
 ### Software Update
 
@@ -90,6 +56,8 @@ mas upgrade
 brew upgrade
 ```
 
+
+
 ### &#x20;Restore Software List&#x20;
 
 ```
@@ -97,6 +65,27 @@ brew upgrade
 ```
 
 
+
+
+
+```
+brew update
+```
+
+```
+brew upgrate
+```
+
+### &#x20;Restore Softwares from brewfile
+
+
+
+
+
+\
+Formula is a text script that run and build tools&#x20;
+
+Cask binsary files from another places&#x20;
 
 
 
