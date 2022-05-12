@@ -25,13 +25,13 @@
 
 * [Web Servers](4.-servers/web-servers/README.md)
   * [Apache](4.-servers/web-servers/apache.md)
+* [Virtual Box](4.-servers/virtual-box.md)
 * [Vagrant](4.-servers/vm/vagrant.md)
 * [Caching](4.-servers/caching.md)
 * [Database](4.-servers/database.md)
 * [RAID](4.-servers/raid.md)
 * [Bash](4.-servers/bash.md)
 * [PowerShell](4.-servers/powershell.md)
-* [Virtual Box](4.-servers/virtual-box.md)
 * [Home Brew](4.-servers/home-brew.md)
 
 ## 5. Infrastructure as code
