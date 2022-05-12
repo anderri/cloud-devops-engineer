@@ -31,6 +31,8 @@
 * [Brew - Package Manager](4.-servers/brew.md)
 * [Bash](4.-servers/bash.md)
 * [PowerShell](4.-servers/powershell.md)
+* [Virtual Box](4.-servers/virtual-box.md)
+* [Home Brew](4.-servers/home-brew.md)
 
 ## 5. Infrastructure as code
 

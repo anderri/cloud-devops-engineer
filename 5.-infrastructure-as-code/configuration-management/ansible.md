@@ -46,7 +46,7 @@ crtl d
 
 {% code title="Ansible-Server" %}
 ```
-cd ~/.ssh
+cd .ssh
 ssh-keygen
 ```
 {% endcode %}
