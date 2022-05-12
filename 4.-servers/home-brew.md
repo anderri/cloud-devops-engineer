@@ -41,7 +41,7 @@ brew bundle dump --all --force --describe
 ### Software Update
 
 ```
-sudo softwareupdate -ia -verbose ; brew bundle -v ; brew cleanup ; brew doctor --verbose
+sudo softwareupdate -ia --verbose ; brew bundle -v ; brew cleanup ; brew doctor --verbose
 ```
 
 ### Update - AppleStore Software

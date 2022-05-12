@@ -9,6 +9,7 @@
 
 * [Linux](2.-server-administration/linux.md)
 * [Windows](2.-server-administration/windows.md)
+* [MacOs](2.-server-administration/macos.md)
 
 ## 3. Network and Security
 
