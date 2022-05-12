@@ -20,13 +20,14 @@ brew install vagrant
 
 ### Main Commands
 
-**Create a folder to save y**
+**Create a folder**
 
 {% code title="Example" %}
 ```
-mkdir ~/Document/Vagrant/Centos
-cd ..
-mkdir ~/DocumentsVagrant/WindowsServer
+cd ~/Document
+mkdir Vagrant
+cd Vagrant
+mkdir WebServer
 ```
 {% endcode %}
 
@@ -34,7 +35,7 @@ mkdir ~/DocumentsVagrant/WindowsServer
 
 {% code title="Centos" %}
 ```
-cd ~/Documents/Vagrant/Centos
+cd ~/Documents/Vagrant/WebServer
 vagrant init centos/7 
 ```
 {% endcode %}
