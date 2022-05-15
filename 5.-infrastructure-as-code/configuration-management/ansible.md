@@ -68,9 +68,21 @@ Config Host List
 vim /etc/ansible/hosts 
 ```
 
-### Exercise
+### Exercise 1&#x20;
 
 ### [https://github.com/u1i/ansible-exercise](https://github.com/u1i/ansible-exercise)
+
+
+
+### Exercise 2
+
+[https://aap2.demoredhat.com/exercises/ansible\_rhel/1.3-playbook/](https://aap2.demoredhat.com/exercises/ansible\_rhel/1.3-playbook/)
+
+
+
+### Exercise 3
+
+[http://redhatgov.io/workshops/ansible\_tower\_azure/exercise1.1/](http://redhatgov.io/workshops/ansible\_tower\_azure/exercise1.1/)
 
 ### Video
 
