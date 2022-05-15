@@ -46,7 +46,7 @@ crtl d
 
 {% code title="Ansible-Server" %}
 ```
-cd .ssh
+cd ~/.ssh
 ssh-keygen
 ```
 {% endcode %}
@@ -68,7 +68,9 @@ Config Host List
 vim /etc/ansible/hosts 
 ```
 
-###
+### Exercise
+
+### [https://github.com/u1i/ansible-exercise](https://github.com/u1i/ansible-exercise)
 
 ### Video
 
