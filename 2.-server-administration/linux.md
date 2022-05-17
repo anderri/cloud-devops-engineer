@@ -1,6 +1,12 @@
 # Linux
 
+##
+
 ## What You Need to Know to Get Started With Linux
+
+
+
+{% embed url="https://www.lpi.org/our-certifications/lpic-1-overview" %}
 
 November 13, 2020
 
@@ -16,8 +22,6 @@ This overview is intended to get you started with Linux. It is not meant as an e
 
 So without further ado, let’s plunge into the workings of the **Linux** operating system.
 
-&#x20;
-
 ### **What is Linux?**
 
 ![Linux Logo](https://comptechdoc.org/wp-content/uploads/2020/07/linux\_logo1.jpg)
@@ -25,8 +29,6 @@ So without further ado, let’s plunge into the workings of the **Linux** operat
 Linux was born in 1991 as a free and open source alternative to Unix, according to [**opensource.com**](https://opensource.com/resources/linux). Its creator was [Linus Torvalds](https://en.wikipedia.org/wiki/Linus\_Torvalds), and due to a file structure that held the distribution code in a directory called “Linux”, the name stuck. The server admin had simply appended the first letter of Linus’ name to the word Unix in an attempt to easily identify where the code was stored. Names can be derived from the strangest places.
 
 Linux is free for anyone to use and is distributed under the GPLv2 license. It is a comprehensive operating system that has found many applications in diverse areas of the computing landscape. You can find Linux running on supercomputers as well as on small, embedded devices. Different Linux distributions are tailored to be more useful in various implementations.
-
-&#x20;
 
 ![](https://comptechdoc.org/wp-content/uploads/2020/07/various\_linux\_distro\_list.jpg)
 
@@ -49,8 +51,6 @@ There are a number of distinct pieces which comprise a distribution of the Linux
 **Desktop Environment –** There are many different desktop environments such as GNOME, Cinnamon, and KDE. This is the window through which the user interacts with the operating system.
 
 **Applications –** There are thousands of applications that can be downloaded and installed to extend to functionality of your Linux implementation. Some Linux distributions offer a centralized method for installing applications.
-
-&#x20;
 
 ### **Commonly Used Linux Commands**
 
@@ -80,8 +80,6 @@ Before we dive deeper into the inner workings of **Linux**, let’s take a look 
 
 That’s enough to get you started. As we mentioned above, there are many commands incorporated into Linux. Consult the training link supplied to further investigate the functionality built into the operating system.
 
-&#x20;
-
 ### **The Linux File Structure**
 
 The Linux operating system has an extensive default directory structure. According to [linux.com](https://www.linux.com/blog/learn/intro-to-linux/2018/4/linux-filesystem-explained), these are the directories that can be found by executing the “**tree -L 1 /**“ command. The directories we will be discussing are the top level directories located under the _**root directory**_. We will simply name the directories and state the contents that they hold.
@@ -106,8 +104,6 @@ The Linux operating system has an extensive default directory structure. Accordi
 * **/var** – logs and task spools are found in this directory.
 
 There may be additional directories at the root level that are part of your particular Linux distro. Linux also creates subdirectories in most of the directories we have referenced above. You can explore them by using commands such as _**pwd**_, _**ls**_, and _**cd**_.
-
-&#x20;
 
 ![](https://comptechdoc.org/wp-content/uploads/2020/07/linux\_file\_structure\_tree.jpg)
 
@@ -148,8 +144,6 @@ _So the letter indicates the permission is enabled and a dash shows it is not se
 
 Permissions can also be represented as numeric values based on binary substitution of the characters.
 
-&#x20;
-
 ### **Linux Services, Daemons, and Devices**
 
 Linux [services](https://www.linux.com/news/introduction-services-runlevels-and-rcd-scripts) and [daemons](https://en.wikipedia.org/wiki/List\_of\_Unix\_daemons) are very similar animals. They are both essentially applications that run the background. They are not under the direct control of a user. System events may initiate action by the services or daemons.
@@ -166,8 +160,6 @@ Linux services such as Apache and MySQL are likely to be running on your machine
 
 Devices files are special files that interact with device drivers to access hardware attached to your system. They are found in the **/dev** directory.
 
-&#x20;
-
 ### **Networking with Linux**
 
 Linux machines are often employed as network gateways or firewalls. The reliability of the operating system, its cost-effectiveness, and its flexibility make it a prime candidate for use in servers and devices involved in networking. There are Linux distributions that are tailored to the needs of network administrators.
@@ -181,8 +173,6 @@ According to [geekflare.com](https://geekflare.com/linux-networking-commands/), 
 * **nmap** – checks opened ports
 
 There are several Linux serial console programs which can be used for purposes such as testing and configuring the serial ports in your network installations. Among them are **minicom, grub,** and **getty**. Based on your specific distribution, additional tools may be available for use in network administration.
-
-&#x20;
 
 ### **A Sample Linux Session**
 
@@ -233,8 +223,6 @@ logout
 
 That’s it. You have successfully run a program in Linux and modified it so it cannot be used by others. With a little practice, you will soon be moving around the system like a pro.
 
-&#x20;
-
 ### **Installing Linux**
 
 You may be interested in trying Linux on a particular computer but not yet be ready to blow away the current operating system. Many Linux versions have what is called a “live” distribution, where you can run the OS from a CD or other external media without any changes to your hard drive.
@@ -254,10 +242,6 @@ This overview provides a taste of what to expect from the Linux operating system
 ***
 
 Copyright by comptechdoc.org
-
-
-
-
 
 {% embed url="https://www.youtube.com/watch?v=ROjZy1WbCIA" %}
 

@@ -42,6 +42,7 @@
 * [Container Orcherstrators](5.-infrastructure-as-code/container-orcherstrators.md)
 * [Infrastructure Provisioning](5.-infrastructure-as-code/infrastructure-provisioning.md)
 * [Code Repository - Git](5.-infrastructure-as-code/code-repository-git.md)
+* [CI/CD Pipeline](5.-infrastructure-as-code/ci-cd-pipeline.md)
 
 ## 6. CI/CD
 
