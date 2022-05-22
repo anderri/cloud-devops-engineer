@@ -2,6 +2,10 @@
 
 ##
 
+![](<../.gitbook/assets/Linux Networking Tool.jpeg>)
+
+##
+
 ## What You Need to Know to Get Started With Linux
 
 
