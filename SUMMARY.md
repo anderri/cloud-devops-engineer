@@ -1,74 +1,54 @@
 # Table of contents
 
-## 1. Programming Languages
-
-* [Python](README.md)
-* [Java Script](1.-programming-languages/java-script.md)
-
-## 2. Server Administration
-
-* [Linux](2.-server-administration/linux.md)
-* [Windows](2.-server-administration/windows.md)
-* [MacOs](2.-server-administration/macos.md)
-
-## 3. Network and Security
-
-* [TCP/IP Fundamentals](3.-network-and-security/tcp-ip-fundamentals.md)
-* [Protocols](3.-network-and-security/protocols/README.md)
-  * [SSL](3.-network-and-security/protocols/ssl.md)
-  * [FTP](3.-network-and-security/protocols/ftp.md)
-  * [DNS](3.-network-and-security/protocols/dns.md)
-  * [HTTP/s](3.-network-and-security/protocols/http-s.md)
-* [SSH Key-Based Authentication](3.-network-and-security/ssh-key-based-authentication.md)
-
-## 4. Servers
-
-* [Web Servers](4.-servers/web-servers/README.md)
-  * [Apache](4.-servers/web-servers/apache.md)
-* [Virtual Box](4.-servers/virtual-box.md)
-* [Vagrant](4.-servers/vm/vagrant.md)
-* [Caching](4.-servers/caching.md)
-* [Database](4.-servers/database.md)
-* [RAID](4.-servers/raid.md)
-* [Bash](4.-servers/bash.md)
-* [PowerShell](4.-servers/powershell.md)
-* [Home Brew](4.-servers/home-brew.md)
-
-## 5. Infrastructure as code
-
-* [Configuration Management](5.-infrastructure-as-code/configuration-management/README.md)
-  * [Ansible](5.-infrastructure-as-code/configuration-management/ansible.md)
-* [Container](5.-infrastructure-as-code/container.md)
-* [Container Orcherstrators](5.-infrastructure-as-code/container-orcherstrators.md)
-* [Infrastructure Provisioning](5.-infrastructure-as-code/infrastructure-provisioning.md)
-* [Code Repository - Git](5.-infrastructure-as-code/code-repository-git/README.md)
-  * [Github](5.-infrastructure-as-code/code-repository-git.md)
-  * [Bitbucket](5.-infrastructure-as-code/code-repository-git/bitbucket.md)
-* [CI/CD Pipeline](5.-infrastructure-as-code/ci-cd-pipeline/README.md)
-  * [Github Actions](5.-infrastructure-as-code/ci-cd-pipeline/github-actions.md)
-  * [Bamboo](5.-infrastructure-as-code/ci-cd-pipeline/bamboo.md)
-
-## 6. CI/CD
-
-* [Jenkins](6.-ci-cd/jenkins.md)
-* [Bitbucket](6.-ci-cd/bitbucket.md)
+* [1. Programming Languages](README.md)
+  * [Java Script](1.-programming-languages/java-script.md)
+  * [Python](<README (1).md>)
+  * [Bash](1.-programming-languages/bash.md)
+  * [PowerShell](1.-programming-languages/powershell.md)
+  * [JSON](1.-programming-languages/json.md)
+  * [YAML](1.-programming-languages/yaml.md)
+* [2. Server Administration](2.-server-administration/README.md)
+  * [Linux](2.-server-administration/linux.md)
+  * [Windows](2.-server-administration/windows.md)
+  * [MacOs](2.-server-administration/macos.md)
+  * [Web Servers](2.-server-administration/web-servers/README.md)
+    * [Apache](2.-server-administration/web-servers/apache.md)
+  * [Virtual Box](2.-server-administration/virtual-box.md)
+  * [Vagrant](2.-server-administration/vagrant.md)
+  * [RAID](2.-server-administration/raid.md)
+  * [Home Brew](2.-server-administration/home-brew.md)
+* [3. Network and Security](3.-network-and-security/README.md)
+  * [SSH Key-Based Authentication](3.-network-and-security/ssh-key-based-authentication.md)
+  * [Protocols](3.-network-and-security/protocols/README.md)
+    * [SSL](3.-network-and-security/protocols/ssl.md)
+    * [FTP](3.-network-and-security/protocols/ftp.md)
+    * [DNS](3.-network-and-security/protocols/dns.md)
+    * [HTTP/s](3.-network-and-security/protocols/http-s.md)
+  * [TCP/IP Fundamentals](3.-network-and-security/tcp-ip-fundamentals.md)
+* [4. Cloud](4.-cloud/README.md)
+  * [AWS](4.-cloud/aws.md)
+  * [Azure](4.-cloud/azure.md)
+  * [GCP](4.-cloud/gcp.md)
+  * [Caching](4.-cloud/caching.md)
+* [Database](database.md)
+* [Code Repository](code-repository.md)
+* [5. Infrastructure as Code - IaC](configuration-management/README.md)
+  * [Ansible](configuration-management/ansible.md)
+* [Container](container.md)
+* [Container Orcherstrators](container-orcherstrators.md)
+* [Code Repository - Git](code-repository-git/README.md)
+  * [Github](code-repository-git/code-repository-git.md)
+  * [Bitbucket](code-repository-git/bitbucket.md)
+* [CI/CD Pipeline](ci-cd-pipeline/README.md)
+  * [Github Actions](ci-cd-pipeline/github-actions.md)
+  * [Bamboo](ci-cd-pipeline/bamboo.md)
+  * [Jenkins](ci-cd-pipeline/jenkins.md)
 
 ## 7. Monitoring and Logging
 
 * [Zabbix](7.-monitoring-and-logging/zabbix.md)
 
-## 8. Clouds
-
-* [AWS](8.-clouds/aws.md)
-* [Azure](8.-clouds/azure.md)
-* [GCP](8.-clouds/gcp.md)
-
-## Files Extensions
-
-* [YAML](files-extensions/yaml.md)
-* [JSON](files-extensions/json.md)
-
 ***
 
-* [Capability](<README (1).md>)
-* [Career Path - Australia](career-path-australia.md)
+* [Career Path - Australia](career-path-australia/README.md)
+  * [Visas](career-path-australia/visas.md)
