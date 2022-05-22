@@ -52,3 +52,7 @@
 
 * [Career Path - Australia](career-path-australia/README.md)
   * [Visas](career-path-australia.md)
+  * [CV - Template](career-path-australia/cv-template.md)
+  * [Searching for Job](career-path-australia/searching-for-job.md)
+  * [Meetups](career-path-australia/meetups.md)
+  * [Perguntas](career-path-australia/perguntas.md)
