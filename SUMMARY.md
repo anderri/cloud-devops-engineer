@@ -42,7 +42,7 @@
 * [Container Orcherstrators](5.-infrastructure-as-code/container-orcherstrators.md)
 * [Infrastructure Provisioning](5.-infrastructure-as-code/infrastructure-provisioning.md)
 * [Code Repository - Git](5.-infrastructure-as-code/code-repository-git/README.md)
-  * [Github](5.-infrastructure-as-code/code-repository-git/code-repository-git.md)
+  * [Github](5.-infrastructure-as-code/code-repository-git.md)
   * [Bitbucket](5.-infrastructure-as-code/code-repository-git/bitbucket.md)
 * [CI/CD Pipeline](5.-infrastructure-as-code/ci-cd-pipeline/README.md)
   * [Github Actions](5.-infrastructure-as-code/ci-cd-pipeline/github-actions.md)
