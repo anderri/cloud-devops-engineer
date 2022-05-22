@@ -7,12 +7,6 @@ description: >-
 
 # YAML
 
-
-
-
-
-
-
 ### Video
 
 {% embed url="https://www.youtube.com/watch?v=1uFVr15xDGg" %}

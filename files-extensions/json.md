@@ -7,14 +7,6 @@ description: >-
 
 # JSON
 
-
-
-
-
-
-
-
-
 ### Video
 
 {% embed url="https://www.youtube.com/watch?v=iiADhChRriM" %}

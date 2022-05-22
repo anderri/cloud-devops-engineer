@@ -80,7 +80,11 @@ Esse visto é para que a pessoa tenha a oportunidade de adquirir experiência na
 Calculo de pontos -> [https://immi.homeaffairs.gov.au/help-support/tools/points-calculator](https://immi.homeaffairs.gov.au/help-support/tools/points-calculator)\
 \
 Tempo de processamento dos vistos -> [https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-processing-times/global-visa-processing-times](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-processing-times/global-visa-processing-times)\
-\
+
+
+Occupation Lists&#x20;
+
+NSW -> [https://www.nsw.gov.au/visas-and-migration/skilled-visas/nsw-skilled-occupation-lists](https://www.nsw.gov.au/visas-and-migration/skilled-visas/nsw-skilled-occupation-lists)\
 \
 
 
