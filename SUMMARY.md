@@ -27,7 +27,7 @@
     * [HTTP/s](3.-network-and-security/protocols/http-s.md)
   * [TCP/IP Fundamentals](3.-network-and-security/tcp-ip-fundamentals.md)
   * [AWS - Network](3.-network-and-security/aws-network.md)
-* [Web 3.0](web-3.0.md)
+  * [Web 3.0](3.-network-and-security/web-3.0.md)
 * [4. Cloud](4.-cloud/README.md)
   * [AWS](8.-clouds/aws.md)
   * [Azure](8.-clouds/azure.md)
