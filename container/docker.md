@@ -25,6 +25,8 @@ docker stop
 
 docker ps
 
+docker ps -a
+
 docker exec -it
 
 docker logs
