@@ -49,6 +49,7 @@
   * [Kustomize](container/kustomize.md)
   * [Container Orcherstrators](container/container-orcherstrators.md)
   * [Kubernetes](container/kubernetes.md)
+  * [Docker](container/docker.md)
 * [8. Infrastructure as Code - IaC](5.-infrastructure-as-code/configuration-management/README.md)
   * [Ansible](5.-infrastructure-as-code/configuration-management/ansible.md)
 
