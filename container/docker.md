@@ -9,6 +9,10 @@ description: >-
 
 {% embed url="https://www.youtube.com/watch?v=_dfLOzuIg2o" %}
 
+{% embed url="https://www.youtube.com/watch?v=3c-iBn73dDE" %}
+
+****
+
 **Basic Commands**&#x20;
 
 docker pull
