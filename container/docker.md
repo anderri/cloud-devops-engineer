@@ -27,6 +27,8 @@ docker ps
 
 docker ps -a
 
+docker run -p6000:6379 redis
+
 docker exec -it
 
 docker logs
