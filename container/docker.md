@@ -15,9 +15,9 @@ description: >-
 
 **Basic Commands**&#x20;
 
-docker pull
+docker pull&#x20;
 
-docker run
+docker run -d -p6000:6795 --name DB postgres:10.10
 
 docker start&#x20;
 
@@ -27,9 +27,20 @@ docker ps
 
 docker ps -a
 
-docker run -p6000:6379 redis
+docker logs 7f4225261ae
 
-docker exec -it
+docker exec -it DB /bin/bash
 
-docker logs
+docker network ls&#x20;
 
+docker network create postgres
+
+docker run -d -p 27017:27017 postgres:10.10 --net --name&#x20;
+
+
+
+docker run -d \\\
+\-p 27017:27017 \\\
+\-- name DB \ \
+\--net network \\\
+postgres:10.10
