@@ -9,8 +9,9 @@ description: >-
 
 What problems do containers solve? \
 \
-First, Docker helps you package applications and their dependencies into portable application images that are straightforward to distribute to artifact repositories and then onto container hosts that will run them.
+First, Docker helps you package applications and their dependencies into portable application images that are straightforward to distribute to artifact repositories and then onto container hosts that will run them. In another words, your software stays system agnostic, making software simpler to use, and less work to develop.&#x20;
 
+* Meaning apps run the same, no matter where they are of what machine they are running
 * Missing or incorrect application dependencies
 * Conflicts between programs running on the same computer such as library dependencies or ports
 * Limiting the amount of resources such as cpu and memory an application can use
