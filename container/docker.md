@@ -85,3 +85,7 @@ docker run -d \\\
 \-- name DB \ \
 \--net network \\\
 postgres:10.10
+
+
+
+![](../.gitbook/assets/Docker-commands-cheat-sheet-by-PhoenixNAP-scaled.jpeg)
