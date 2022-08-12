@@ -8,10 +8,13 @@ description: >-
 # Docker
 
 DOCKER vs VM/OS\
-\
-Docker runs on the application layer only.&#x20;
 
-VM/OS run on Application+OS Kernel.&#x20;
+
+Advantages:\
+Docker runs on the application layer only. \
+Smaller Size = MB vs GB \
+Speed: Faster \
+Compatibility: Can run on many different OS Host&#x20;
 
 ![](<../.gitbook/assets/Screen Shot 2022-08-12 at 1.12.21 pm.png>)
 
@@ -60,40 +63,52 @@ A place for developers to store container images and share them out via a proces
 
 {% embed url="https://www.youtube.com/watch?v=3c-iBn73dDE" %}
 
+**Image vs Container**
+
+![](<../.gitbook/assets/Screen Shot 2022-08-12 at 1.20.53 pm.png>)
+
+**Version and Tag**&#x20;
+
+Version: 5.0.5&#x20;
+
+****
+
+****
+
 ****
 
 **Basic Commands**&#x20;
 
-docker pull&#x20;
+| Docker +                | Explanation                 | test |
+| ----------------------- | --------------------------- | ---- |
+| pull                    | download image              |      |
+| run                     | attached mode - on terminal |      |
+| start                   |                             |      |
+| stop                    |                             |      |
+| ps                      | list running containers     |      |
+| ps -a                   |                             |      |
+| logs + container id     |                             |      |
+| exec -it DB /bin/bash   |                             |      |
+| network ls              |                             |      |
+| network create postgres |                             |      |
 
-docker run -d -p6000:6795 --name DB postgres:10.10
+| RUN OPTIONS    |                                     |   |
+| -------------- | ----------------------------------- | - |
+| -d             | detached mode                       |   |
+| -p             | docker port 6000 and host port 6795 |   |
+| -- name DB     | container name = DB                 |   |
+| postgres:10.10 | image name and tag/version          |   |
+| net --name     |                                     |   |
 
-docker start&#x20;
+{% code title="example" %}
+```
+docker run -d\ 
+-p 27017:27017 \
+-- name DB \ 
+--net network \
+postgres:10.10 
 
-docker stop
-
-docker ps
-
-docker ps -a
-
-docker logs 7f4225261ae
-
-docker exec -it DB /bin/bash
-
-docker network ls&#x20;
-
-docker network create postgres
-
-docker run -d -p 27017:27017 postgres:10.10 --net --name&#x20;
-
-
-
-docker run -d \\\
-\-p 27017:27017 \\\
-\-- name DB \ \
-\--net network \\\
-postgres:10.10
-
-
+```
+{% endcode %}
 
 ![](../.gitbook/assets/Docker-commands-cheat-sheet-by-PhoenixNAP-scaled.jpeg)
