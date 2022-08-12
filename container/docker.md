@@ -7,6 +7,14 @@ description: >-
 
 # Docker
 
+DOCKER vs VM/OS\
+\
+Docker runs on the application layer only.&#x20;
+
+VM/OS run on Application+OS Kernel.&#x20;
+
+![](<../.gitbook/assets/Screen Shot 2022-08-12 at 1.12.21 pm.png>)
+
 What problems do containers solve? \
 \
 First, Docker helps you package applications and their dependencies into portable application images that are straightforward to distribute to artifact repositories and then onto container hosts that will run them. In another words, your software stays system agnostic, making software simpler to use, and less work to develop.&#x20;
