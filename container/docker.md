@@ -85,7 +85,8 @@ Version: 5.0.5&#x20;
 | stop                    | stop container                      |      |
 | ps                      | list running containers ONLY        |      |
 | logs + container id     |                                     |      |
-| exec -it DB /bin/bash   |                                     |      |
+| exec -it DB /bin/bash   | interact with container             |      |
+| env                     | environment                         |      |
 | network ls              |                                     |      |
 | network create postgres |                                     |      |
 
