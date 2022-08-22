@@ -73,11 +73,9 @@ Version: 5.0.5&#x20;
 
 ****
 
-****
+![](../.gitbook/assets/Docker-commands-cheat-sheet-by-PhoenixNAP-scaled.jpeg)
 
-****
-
-**Basic Commands**&#x20;
+## Basic Commands <a href="#title" id="title"></a>
 
 | Docker +                | Description                         | test |
 | ----------------------- | ----------------------------------- | ---- |
@@ -99,30 +97,6 @@ Version: 5.0.5&#x20;
 | postgres:10.10 | image name and tag/version          |   |
 | net --name     |                                     |   |
 
-
-
-| PS                | Description                                             |   |
-| ----------------- | ------------------------------------------------------- | - |
-| `--all` , `-a`    | show all containers                                     |   |
-| `--filter` , `-f` | Filter output based on conditions provided              |   |
-| `--last` , `-n`   | Show n last created containers (includes all states)    |   |
-| `--latest` , `-l` | Show the latest created container (includes all states) |   |
-| `--quiet` , `-q`  | Only display container IDs                              |   |
-| `--size` , `-s`   | Display total file sizes                                |   |
-
-
-
-
-
-| Filtering         | Description                                             |   |
-| ----------------- | ------------------------------------------------------- | - |
-| `--all` , `-a`    | show all containers                                     |   |
-| `--filter` , `-f` | Filter output based on conditions provided              |   |
-| `--last` , `-n`   | Show n last created containers (includes all states)    |   |
-| `--latest` , `-l` | Show the latest created container (includes all states) |   |
-| `--quiet` , `-q`  | Only display container IDs                              |   |
-| `--size` , `-s`   | Display total file sizes                                |   |
-
 {% code title="example" %}
 ```
 docker run -d\ 
@@ -133,14 +107,9 @@ postgres:10.10
 ```
 {% endcode %}
 
-![](../.gitbook/assets/Docker-commands-cheat-sheet-by-PhoenixNAP-scaled.jpeg)
+
 
 ## docker ps <a href="#title" id="title"></a>
-
-_Estimated reading time: 16 minutes_
-
-\
-
 
 List containers
 
@@ -548,3 +517,4 @@ c1d3b0166030        com.docker.swarm.node=debian,com.docker.swarm.cpu=6
 \
 
 
+[https://dockerlabs.collabnix.com/docker/cheatsheet/](https://dockerlabs.collabnix.com/docker/cheatsheet/)
