@@ -546,3 +546,17 @@ docker build -t my-app:1.0 .
 
 ## Docker Registry <a href="#title" id="title"></a>
 
+
+
+
+
+
+
+## Docker Volumes Locations <a href="#title" id="title"></a>
+
+Windows: c:\ProgramData\docker\volumes
+
+Linux /var/lib/docker/volumes
+
+Mac /var/lib/docker/volumes
+
