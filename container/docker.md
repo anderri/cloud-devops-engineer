@@ -540,5 +540,9 @@ c1d3b0166030        com.docker.swarm.node=debian,com.docker.swarm.cpu=6
 
 ## Docker build  <a href="#title" id="title"></a>
 
+docker build -t my-app:1.0 .
 
+
+
+## Docker Registry <a href="#title" id="title"></a>
 
