@@ -75,7 +75,7 @@ Version: 5.0.5&#x20;
 
 ![](../.gitbook/assets/Docker-commands-cheat-sheet-by-PhoenixNAP-scaled.jpeg)
 
-## Basic Commands <a href="#title" id="title"></a>
+## Docker Basic Commands <a href="#title" id="title"></a>
 
 | Docker +                | Description                         | test |
 | ----------------------- | ----------------------------------- | ---- |
@@ -518,4 +518,27 @@ c1d3b0166030        com.docker.swarm.node=debian,com.docker.swarm.cpu=6
 \
 
 
-[https://dockerlabs.collabnix.com/docker/cheatsheet/](https://dockerlabs.collabnix.com/docker/cheatsheet/)
+{% embed url="https://dockerlabs.collabnix.com/docker/cheatsheet/" %}
+
+## Docker Composer Basic Commands <a href="#title" id="title"></a>
+
+
+
+[https://docs.docker.com/compose/reference/](https://docs.docker.com/compose/reference/)
+
+
+
+
+
+## Dockerfile <a href="#title" id="title"></a>
+
+
+
+
+
+
+
+## Docker build  <a href="#title" id="title"></a>
+
+
+
