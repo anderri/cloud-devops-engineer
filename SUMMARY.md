@@ -46,10 +46,10 @@
   * [ArgoCD](6.-ci-cd-pipeline/argocd.md)
 * [7. Container Operating Platfrom](container/README.md)
   * [Docker](container/docker.md)
+  * [Kubernetes](container/kubernetes.md)
+  * [Minikube](container/minikube.md)
   * [ECR - Amazon Container Repository](container/ecr-amazon-container-repository.md)
   * [Kustomize](container/kustomize.md)
-  * [Container Orcherstrators](container/container-orcherstrators.md)
-  * [Kubernetes](container/kubernetes.md)
 * [8. Infrastructure as Code - IaC](5.-infrastructure-as-code/configuration-management/README.md)
   * [Ansible](5.-infrastructure-as-code/configuration-management/ansible.md)
 
