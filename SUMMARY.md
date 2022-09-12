@@ -51,6 +51,7 @@
   * [ECR - Amazon Container Repository](container/ecr-amazon-container-repository.md)
   * [Kustomize](container/kustomize.md)
 * [8. Infrastructure as Code - IaC](5.-infrastructure-as-code/configuration-management/README.md)
+  * [Terraform](configuration-management/terraform.md)
   * [Ansible](5.-infrastructure-as-code/configuration-management/ansible.md)
 
 ## 7. Monitoring and Logging
