@@ -1,5 +1,11 @@
 # Terraform
 
+#### Install Terraform + autocomplete &#x20;
+
+#### [https://learn.hashicorp.com/tutorials/terraform/install-cli#install-terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli#install-terraform)
+
+####
+
 #### Creating main.tf
 
 
