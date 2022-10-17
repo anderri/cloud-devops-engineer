@@ -108,7 +108,7 @@ variable "with_optional_attribute" {
 ```
 
 ```hcl
-// Tuple - list group
+// Tuple - is like a group with differ type value
 variable "my_tubple" {
     type = tuple([string,number,bool])
     default = ["hello", "42", "true"]
