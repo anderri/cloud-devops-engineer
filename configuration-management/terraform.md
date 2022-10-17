@@ -56,6 +56,8 @@ Terraform Backends
 
 #### Resources and Complex Types
 
+[https://www.youtube.com/watch?v=VpN0bW6Ej8g](https://www.youtube.com/watch?v=VpN0bW6Ej8g)
+
 * Complex type&#x20;
   * Collection type (list, map, set) similar values
   * Structural type (tuple, object) dissimilar values&#x20;
@@ -63,14 +65,15 @@ Terraform Backends
 Complex Types
 
 <pre class="language-hcl" data-overflow="wrap"><code class="lang-hcl"><strong>// List 
+</strong><strong>// Applications  
 </strong>variable "planet" {
-    type = list
+    type = list(string)
     default = ["mars", "earth", "moon"]
 }
 username = var.planet[0]</code></pre>
 
 ```hcl
-// Maps - like table 
+// Maps - is like a data table 
 variable "plans" {
     type = maps
     default = {
@@ -83,7 +86,9 @@ username = var.plans["PlanB"]
 ```
 
 ```hcl
-// Set
+// Set - differ from list 2 ways
+// only 1 single type of value 
+// doens't care for repetition or order
 > toset(["a","b",c])
 [
     "a",
