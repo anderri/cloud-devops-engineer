@@ -70,7 +70,7 @@ Complex Types
 username = var.planet[0]</code></pre>
 
 ```hcl
-// Maps
+// Maps - like table 
 variable "plans" {
     type = maps
     default = {
@@ -102,7 +102,13 @@ variable "with_optional_attribute" {
     })      
 ```
 
-
+```hcl
+// Tuple - list group
+variable "my_tubple" {
+    type = tuple([string,number,bool])
+    default = ["hello", "42", "true"]
+}
+```
 
 
 
