@@ -119,7 +119,77 @@ variable "my_tubple" {
 
 
 
-Built-In Functions
+#### Built-In Functions
+
+*   Numeric&#x20;
+
+    * abs: returns the absolute value of number
+    * floor: returns the closest whole number that is less than or equal to the given value, which may be a fraction
+    * Log: returns the logarithm of a given number in a given base&#x20;
+    * ceil: returns the closest whole number that is greater than or equal to the given value&#x20;
+    * min: takes one or more numbers and returns the smallest number from the set
+    * max: takes one or more numbers and returns the greatest number from the set&#x20;
+    * parseint: parses the given string as a representation of an integer in the specified base and returns the resulting number
+    * pow: calculates an exponent, by raising its first argument to the power of the second argument.&#x20;
+    * signum: determines the sign of a number, returning a number between -1 and 1 to represent the sign.&#x20;
+
+
+* String
+  * chomp: removes newline characters at the end of a string.
+
+```hcl
+// chomp
+chomp ("hello\n")
+hello
+chomp ("hello\r\n")
+hello 
+chomp ("hello\n\n")
+hello 
+```
+
+* format: produces a string by formatting a number of other values according to a specification string.
+
+```hcl
+// format
+format ("Hello, %s!", "Ander")
+Hello, Ander!
+# %s = string
+
+format ("There are %d lights", 4)
+There are 4 lights
+# %d = digit 
+```
+
+* formatlist: produces a list of strings by formatting a number of other values according to a specification string.
+
+```
+// formatlist
+formatlist ("Hello, %s!", ["Ander", "Olivia", "Sam"])
+Hello, Ander!
+Hello, Olivia!
+Hello, Sam!
+# %s = string
+
+formatlist ("%s, %s!", "Salutations", ["Ander", "Olivia", "Sam"])
+Salutations, Ander!
+Salutations, Olivia!
+Salutations, Sam!
+# %s = string
+```
+
+
+
+
+
+* Collection
+* Encoding
+* Filesystem
+* Data and Time
+* Hash and Crypto
+* IP Network
+* Type Conversion
+
+
 
 Terraform Cloud
 
