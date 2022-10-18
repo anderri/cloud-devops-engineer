@@ -106,9 +106,6 @@ Terraform Backends
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.40.56 pm.png>)
 * **formatlist:** produces a list of strings by formatting a number of other values according to a specification string. \
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.41.59 pm.png>)
-
-
-
 * **indent:** adds a given number of spaces to the beinnings of all but the first line in a given-line string. \
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.44.55 pm.png>)
 * **join:** produces a string by concatenating together all elements of a given list of things with the given delimiter. \
@@ -121,10 +118,14 @@ Terraform Backends
 * **regexall (regular expression):** applies a regular expression to a string and returns a list of all matches.
 * **replace:** searches a given string for another given substring, and replaces each occurrence with a given replacement string.\
   &#x20;![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.48.43 pm.png>)
-* **split:** produces a list by dividing a given string at all occurrences of a given separator.&#x20;
-* **strreve:** reverses the characters in a string.&#x20;
-* **substr:** extracts a substring from a given string by offset and length.&#x20;
-* **title:** converts the first letter of each word in the given string to uppercase.
+* **split:** produces a list by dividing a given string at all occurrences of a given separator. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.49.44 pm.png>)
+* **strreve:** reverses the characters in a string.\
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.50.12 pm.png>)&#x20;
+* **substr:** extracts a substring from a given string by offset and length. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.50.47 pm.png>)
+* **title:** converts the first letter of each word in the given string to uppercase.\
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.52.08 pm.png>)
 * **trim:** removes the specified characters from the start and end of the given string.&#x20;
 * **trimprefix:** removes the specified prefix from the start of the given string. IF the string does not start with the prefix, the string is returned unchanged.&#x20;
 * **trimsuffix:** removes the specified suffix from the end of the given string.
