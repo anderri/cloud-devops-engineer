@@ -85,8 +85,9 @@ Terraform Backends
 
     * abs: returns the absolute value of a number.\
       ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.27.30 pm.png>)
-    * floor: returns the closest whole number that is less than or equal to the given value, which may be a fraction.![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.27.50 pm.png>)
-    * Log: returns the logarithm of a given number in a given base.
+    * floor: returns the closest whole number that is less than or equal to the given value, which may be a fraction.\
+      ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.27.50 pm.png>)
+    * Log: returns the logarithm of a given number in a given base.![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.35.05 pm.png>)&#x20;
     * ceil: returns the closest whole number that is greater than or equal to the given value.&#x20;
     * min: takes one or more numbers and returns the smallest number from the set.
     * max: takes one or more numbers and returns the greatest number from the set.
