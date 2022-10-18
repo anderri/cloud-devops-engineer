@@ -194,8 +194,38 @@ Terraform Backends
   &#x20;![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.25.16 pm.png>)
 * **zapmap:** Constructs a map from a list of keys and a corresponding list of values. \
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.25.24 pm.png>)
-* Encoding
-* Filesystem
+
+#### Encoding and Decoding Functions
+
+![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.31.53 pm.png>)
+
+* **Encode:**
+  * base64encode
+  * jsonencode
+  * yamlencode
+  * textencodebase64
+  * base64gzip
+  * urlencode\
+    ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.36.17 pm.png>)\
+
+*   **Decode:**
+
+    * base64decode
+    * jsondecode
+    * textdecodebase64
+    * yamldecode
+    * cvsdecode
+
+
+
+#### Filesystem Functions&#x20;
+
+* abspath: Takes a string containing a filesystem path and converts it to an absolute path. That is, if the path is not absolute, it will be joined with the current working directory. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.38.56 pm.png>)
+* dirname: Takes a string containing a filesystem path and removes the last portion from it.\
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.41.32 pm.png>)
+* pathexpand: Takes a filesystem path that might begin with a \~ segment, and if so it replaces that segment with the current user's home directory path. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.42.07 pm.png>)
 * Data and Time
 * Hash and Crypto
 * IP Network
