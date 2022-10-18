@@ -277,10 +277,39 @@ Generate hashes and cryptographic strings.&#x20;
 
 #### IP Network **Functions**
 
-* cidrhost: Calculates a full host IP address for a given host number withing a given IP network address prefix.&#x20;
-* Type Conversion
+* **cidrhost:** Calculates a full host IP address for a given host number within a given IP network address prefix. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 8.26.48 pm.png>)
+* **cidrnetmask:** Converts an IPv4 address prefix given in CIDR notation into a subnet mask address. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 8.28.16 pm.png>)
+* **cidrsubnet:** Calculates a subnet address within given IP network address prefix.\
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 8.29.27 pm.png>)
+* **cidrsubnets:** Calculates a sequence of consecutive IP address ranges within a particular CIDR prefix. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 8.31.03 pm.png>)
 
+#### Type Conversion Functions
 
+* **can:** Evaluates the given expression and returns a boolean value indication whether the expression produced a result without any errors. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 8.36.03 pm.png>)
+* **defaults:** A specialized function intended for use with input variables whose type constraints are object types or collections of object types that include optional attributes. \
+
+* **nonsensitive:** Takes a sensitive value and returns a copy of that value with the sensitive marking removed, thereby exposing the sensitive value. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 8.37.28 pm.png>)
+* **sensitive:** Takes any value and returns a copy of it marked so that Terraform will treat it as sensitive, with the same meaning and behavior as far sensitive input variables. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 8.37.49 pm.png>)
+* **tobool:** Converts its argument to a boolean value.\
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 8.41.48 pm.png>)
+* **tomap:** Converts its argument to a map value.\
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 8.42.09 pm.png>)
+* **toset:** Converts its argument to a set value.\
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 8.42.27 pm.png>)
+* **tolist:** Converts its argument to a list value. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 8.42.44 pm.png>)
+* **tonumber:** Converts its argument to a number value. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 8.42.54 pm.png>)
+* **tostring:** Converts its argument to a set value. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 8.43.07 pm.png>)
+* **try:** Evaluates all of its argument expressions in turn and return the result of the first one that does not produce any errors. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 8.43.46 pm.png>)
 
 Terraform Cloud
 
