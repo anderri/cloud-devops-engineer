@@ -57,37 +57,18 @@ Terraform Backends
   * Collection type (list, map, set) similar values
   * Structural type (tuple, object) dissimilar values&#x20;
 
-Complex Types
+### Complex Types
 
-* List: Its like an array, you use an integer as the index to retrieve the value. ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 11.28.10 am.png>)
-* Maps (data table): Its like a ruby hash or single nested json object. You use a key as the index to retrieve the value. ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 11.30.41 am.png>)
+* **List**: Its like an array, you use an integer as the index to retrieve the value. ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 11.28.10 am.png>)
+* **Maps** (data table): Its like a ruby hash or single nested json object. You use a key as the index to retrieve the value.\
+  &#x20;![](<../.gitbook/assets/Screen Shot 2022-10-18 at 11.30.41 am.png>)
+* **Set**: Is similar to a list but has no secondary index or preserved ordering, all values must of the same type and will be cast to match based on the first element. ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 11.33.32 am.png>)
 
-```hcl
-// Maps - is like a data table 
-variable "plans" {
-    type = maps
-    default = {
-        "PlanA = "10 USD"
-        "PlanB = "50 USD"
-        "PlanC = "100 USD"
-    }
-}
-username = var.plans["PlanB"]
-```
 
-```hcl
-// Set - differ from list 2 ways
-// only 1 single type of value 
-// doens't care for repetition or order
-> toset(["a","b",c])
-[
-    "a",
-    "b",
-    "3",
-]
-```
 
-Structural Type
+### Structural Type
+
+
 
 ```hcl
 variable "with_optional_attribute" {
