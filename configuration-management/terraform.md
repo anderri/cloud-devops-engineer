@@ -126,30 +126,29 @@ Terraform Backends
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.50.47 pm.png>)
 * **title:** converts the first letter of each word in the given string to uppercase.\
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.52.08 pm.png>)
-* **trim:** removes the specified characters from the start and end of the given string.&#x20;
+* **trim:** removes the specified characters from the start and end of the given string. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.52.34 pm.png>)
 * **trimprefix:** removes the specified prefix from the start of the given string. IF the string does not start with the prefix, the string is returned unchanged.&#x20;
 * **trimsuffix:** removes the specified suffix from the end of the given string.
 * **trimspace:** removes all type of whitespaces from both the start and the end of a string.&#x20;
-*
 
+### Collection
 
-
-#### Collection
-
-* alltrue (operator and): returns true if all elemetns in given collection are true or "true". It also returns true if the collection is empty. \
+* **alltrue (operator and):** returns true if all elemetns in given collection are true or "true". It also returns true if the collection is empty. \
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 11.19.14 am.png>)
-* anytrue (operator or): returns true if any element in a given collection is true or "true". It also returns false if the collection is empty.\
+* **anytrue (operator or):** returns true if any element in a given collection is true or "true". It also returns false if the collection is empty.\
   &#x20;![](<../.gitbook/assets/Screen Shot 2022-10-18 at 11.18.24 am.png>)\
 
-* chunklist: splits a single list into fixed-size chinks, returning a list of lists.![](<../.gitbook/assets/Screen Shot 2022-10-18 at 11.20.08 am.png>)\
+* **chunklist:** splits a single list into fixed-size chinks, returning a list of lists.![](<../.gitbook/assets/Screen Shot 2022-10-18 at 11.20.08 am.png>)\
 
-* coalesce: takes any number of arguments and returns the first one that isn't null or empty string. \
+* **coalesce:** takes any number of arguments and returns the first one that isn't null or empty string. \
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 11.23.37 am.png>)\
 
-* coalescelist: takes any number of list arguments and returns the first one that isn't empty. ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 11.24.08 am.png>)
-
-
-
+* **coalescelist:** takes any number of list arguments and returns the first one that isn't empty. ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 11.24.08 am.png>)
+* **compact:** Takes a list of strings and returns a new list with any empty string elements removed. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.55.18 pm.png>)
+* **concat:** Takes two or more lists and combines them into a single list.\
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.56.19 pm.png>)
 * Encoding
 * Filesystem
 * Data and Time
