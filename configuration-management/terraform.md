@@ -168,10 +168,12 @@ Terraform Backends
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 2.12.17 pm.png>)
 * **merge:** Takes an arbitrary number of maps or objetcs, and returns a single map or object that contains a merged set of elements from all arguments.\
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 2.18.52 pm.png>)
-* one: Takes a list, set, or tuple value with either zero or one elements. If the collection is empty, one returns null. Otherwise, one returns the first element. If there are two or more elements then one will return an error. \
+* **one:** Takes a list, set, or tuple value with either zero or one elements. If the collection is empty, one returns null. Otherwise, one returns the first element. If there are two or more elements then one will return an error. \
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.03.18 pm.png>)
-* range: Generates a list of numbers using a start value, a limit value, and a step value.\
+* **range:** Generates a list of numbers using a start value, a limit value, and a step value.\
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.05.20 pm.png>)
+* **reserve:** Takes a sequence and produces a new sequence of the same length with all of the same elements as the given sequence but in reverse order. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.08.28 pm.png>)
 * Encoding
 * Filesystem
 * Data and Time
