@@ -177,10 +177,41 @@ Salutations, Sam!
 # %s = string
 ```
 
+* indent: adds a given number of spaces to the beinnings of all but the first line in a given-line string.&#x20;
 
+```
+// indent 
+" items: ${indent(2, "[\n  foo,\n .bar,\n]\n")]}
+  items: [
+    foo,
+    bar,
+  ]  
+```
 
+* join: produces a string by concatenating together all elements of a given list of things with the given delimiter.&#x20;
 
+```
+// join
+join(",", ["foo", "bar", "baz"])
+foo, bar, baz
+```
 
+* lower: converts all cased letters in given string to lowercase.
+
+```
+lower("HELLO")
+hello
+```
+
+* regex: applies a regular expression to a string and returns the matching substrings.
+
+```
+regex ("^(?:(?P<scheme>[^:/?#]+):)?(?://(?P<authority>[^/?#]*))?, "https://terraform.io/docs/")
+"authority"= "terraform.io"
+"scheme" = "https"
+```
+
+*
 * Collection
 * Encoding
 * Filesystem
