@@ -57,7 +57,9 @@ Terraform Backends
   * Collection type (list, map, set) similar values
   * Structural type (tuple, object) dissimilar values&#x20;
 
-### Complex Types
+## Complex Types
+
+### Collection Type
 
 * **List**: Its like an array, you use an integer as the index to retrieve the value. ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 11.28.10 am.png>)
 * **Maps** (data table): Its like a ruby hash or single nested json object. You use a key as the index to retrieve the value.\
@@ -68,15 +70,9 @@ Terraform Backends
 
 ### Structural Type
 
-* Object: A structural type allows multiple values of several distinct type to be grouped together as a single value. Structural types a schema as an argument, to specify which types are allowed for which elements. ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.13.24 pm.png>)
-
-```hcl
-variable "with_optional_attribute" {
-    type = object ({
-        a = string # a required attribute 
-        b = optional(string) #an optional attribute
-    })      
-```
+* **Object:** A structural type allows multiple values of several distinct type to be grouped together as a single value. Structural types a schema as an argument, to specify which types are allowed for which elements. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.13.24 pm.png>)
+* **Tuple:** A&#x20;
 
 ```hcl
 // Tuple - is like a group with differ type value
@@ -86,7 +82,8 @@ variable "my_tubple" {
 }
 ```
 
-
+* **Map (data table):** A\
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.22.15 pm.png>)
 
 
 
