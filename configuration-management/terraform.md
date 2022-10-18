@@ -157,6 +157,10 @@ Terraform Backends
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 2.00.03 pm.png>)
 * **index:** Finds the element index for a given value in a list. \
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 2.01.06 pm.png>)
+* **flatten:** Takes a list and replaces any elements that are lists with a flattened sequence of the list contents. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 2.02.20 pm.png>)
+* keys: Takes a map and returns a list containing the keys from that map.\
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 2.03.27 pm.png>)
 * Encoding
 * Filesystem
 * Data and Time
