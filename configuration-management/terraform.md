@@ -72,17 +72,9 @@ Terraform Backends
 
 * **Object:** A structural type allows multiple values of several distinct type to be grouped together as a single value. Structural types a schema as an argument, to specify which types are allowed for which elements. \
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.13.24 pm.png>)
-* **Tuple:** A ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.24.12 pm.png>)
-
-```hcl
-// Tuple - is like a group with differ type value
-variable "my_tubple" {
-    type = tuple([string,number,bool])
-    default = ["hello", "42", "true"]
-}
-```
-
-* **Map (data table):** A\
+* **Tuple:** \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.24.12 pm.png>)
+* **Map (data table):** \
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.22.15 pm.png>)
 
 
@@ -91,13 +83,14 @@ variable "my_tubple" {
 
 *   Numeric&#x20;
 
-    * abs: returns the absolute value of number
-    * floor: returns the closest whole number that is less than or equal to the given value, which may be a fraction
-    * Log: returns the logarithm of a given number in a given base&#x20;
-    * ceil: returns the closest whole number that is greater than or equal to the given value&#x20;
-    * min: takes one or more numbers and returns the smallest number from the set
-    * max: takes one or more numbers and returns the greatest number from the set&#x20;
-    * parseint: parses the given string as a representation of an integer in the specified base and returns the resulting number
+    * abs: returns the absolute value of a number.\
+      ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.27.30 pm.png>)
+    * floor: returns the closest whole number that is less than or equal to the given value, which may be a fraction.![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.27.50 pm.png>)
+    * Log: returns the logarithm of a given number in a given base.
+    * ceil: returns the closest whole number that is greater than or equal to the given value.&#x20;
+    * min: takes one or more numbers and returns the smallest number from the set.
+    * max: takes one or more numbers and returns the greatest number from the set.
+    * parseint: parses the given string as a representation of an integer in the specified base and returns the resulting number.
     * pow: calculates an exponent, by raising its first argument to the power of the second argument.&#x20;
     * signum: determines the sign of a number, returning a number between -1 and 1 to represent the sign.&#x20;
 
