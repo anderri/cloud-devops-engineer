@@ -170,6 +170,8 @@ Terraform Backends
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 2.18.52 pm.png>)
 * one: Takes a list, set, or tuple value with either zero or one elements. If the collection is empty, one returns null. Otherwise, one returns the first element. If there are two or more elements then one will return an error. \
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.03.18 pm.png>)
+* range: Generates a list of numbers using a start value, a limit value, and a step value.\
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.05.20 pm.png>)
 * Encoding
 * Filesystem
 * Data and Time
