@@ -91,7 +91,7 @@ Terraform Backends
     * ceil: returns the closest whole number that is greater than or equal to the given value.![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.35.45 pm.png>) &#x20;
     * min: takes one or more numbers and returns the smallest number from the set.
     * max: takes one or more numbers and returns the greatest number from the set.
-    * parseint: parses the given string as a representation of an integer in the specified base and returns the resulting number.
+    * parseint: parses the given string as a representation of an integer in the specified base and returns the resulting number. ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.36.39 pm.png>)
     * pow: calculates an exponent, by raising its first argument to the power of the second argument.&#x20;
     * signum: determines the sign of a number, returning a number between -1 and 1 to represent the sign.&#x20;
 
