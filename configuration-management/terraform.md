@@ -176,10 +176,24 @@ Terraform Backends
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.08.28 pm.png>)
 * **setintersection:** Function takes multiple sets and produces a single set containing only the elements that all of the given sets have in common. In other words, it computes the intersection of the sets.\
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.11.22 pm.png>)
-* setproduct: Function finds all the possible combinations of elements from all of the given sets by computing the Cartesian product. \
+* **setproduct:** Function finds all the possible combinations of elements from all of the given sets by computing the Cartesian product. \
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.13.56 pm.png>)
-* setsubtract: Function returns a new set containing the elements from the first set that are not present in the second set. In other words, it computes the relative complement of the first set in the second set. \
-
+* **setsubtract:** Function returns a new set containing the elements from the first set that are not present in the second set. In other words, it computes the relative complement of the first set in the second set. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.15.34 pm.png>)
+* **setunion:** Function takes multiple sets and produces a single set containing the elements from all of the given sets. In other words, it computes the union of the sets. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.17.38 pm.png>)
+* **slice:** Extracts some consecutive elements from within a list. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.19.00 pm.png>)
+* **sort:** Takes a list of strings and returns a new list with those strings sorted lexicographically.\
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.20.37 pm.png>)
+* **sum:** Takes a list of set and returns the sum of those numbers.\
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.24.04 pm.png>)
+* **transpose:** Takes a map of list of strings and swaps the key and value to produce a new map of lists of strings.\
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.24.48 pm.png>)
+* **value:** Take a map and return a list containing the values of the elements in that map.\
+  &#x20;![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.25.16 pm.png>)
+* **zapmap:** Constructs a map from a list of keys and a corresponding list of values. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.25.24 pm.png>)
 * Encoding
 * Filesystem
 * Data and Time
