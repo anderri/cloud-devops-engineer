@@ -81,7 +81,7 @@ Terraform Backends
 
 #### Built-In Functions
 
-*   Numeric&#x20;
+*   **Numeric**&#x20;
 
     * abs: returns the absolute value of a number.\
       ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.27.30 pm.png>)
@@ -91,98 +91,41 @@ Terraform Backends
     * ceil: returns the closest whole number that is greater than or equal to the given value.![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.35.45 pm.png>) &#x20;
     * min: takes one or more numbers and returns the smallest number from the set.
     * max: takes one or more numbers and returns the greatest number from the set.
-    * parseint: parses the given string as a representation of an integer in the specified base and returns the resulting number. ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.36.39 pm.png>)
-    * pow: calculates an exponent, by raising its first argument to the power of the second argument.&#x20;
-    * signum: determines the sign of a number, returning a number between -1 and 1 to represent the sign.&#x20;
+    * parseint: parses the given string as a representation of an integer in the specified base and returns the resulting number.\
+      &#x20;![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.36.39 pm.png>)
+    * pow: calculates an exponent, by raising its first argument to the power of the second argument.\
+      ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.38.22 pm.png>)&#x20;
+    * signum: determines the sign of a number, returning a number between -1 and 1 to represent the sign.\
+      &#x20;![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.38.46 pm.png>)
 
 
-* String
-  * chomp: removes newline characters at the end of a string.
+* **String**
+  * **Chomp:** removes newline characters at the end of a string. \
+    ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.39.50 pm.png>)
+* **Format:** produces a string by formatting a number of other values according to a specification string. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.40.56 pm.png>)
+* **formatlist:** produces a list of strings by formatting a number of other values according to a specification string. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.41.59 pm.png>)
 
-```hcl
-// chomp
-chomp ("hello\n")
-hello
-chomp ("hello\r\n")
-hello 
-chomp ("hello\n\n")
-hello 
-```
 
-* format: produces a string by formatting a number of other values according to a specification string.
 
-```hcl
-// format
-format ("Hello, %s!", "Ander")
-Hello, Ander!
-# %s = string
-
-format ("There are %d lights", 4)
-There are 4 lights
-# %d = digit 
-```
-
-* formatlist: produces a list of strings by formatting a number of other values according to a specification string.
-
-```
-// formatlist
-formatlist ("Hello, %s!", ["Ander", "Olivia", "Sam"])
-Hello, Ander!
-Hello, Olivia!
-Hello, Sam!
-# %s = string
-
-formatlist ("%s, %s!", "Salutations", ["Ander", "Olivia", "Sam"])
-Salutations, Ander!
-Salutations, Olivia!
-Salutations, Sam!
-# %s = string
-```
-
-* indent: adds a given number of spaces to the beinnings of all but the first line in a given-line string.&#x20;
-
-```
-// indent 
-" items: ${indent(2, "[\n  foo,\n .bar,\n]\n")]}
-  items: [
-    foo,
-    bar,
-  ]  
-```
-
-* join: produces a string by concatenating together all elements of a given list of things with the given delimiter.&#x20;
-
-```
-// join
-join(",", ["foo", "bar", "baz"])
-foo, bar, baz
-```
-
-* lower: converts all cased letters in given string to lowercase.
-
-```
-lower("HELLO")
-hello
-```
-
-* regex (regular expression): applies a regular expression to a string and returns the matching substrings.
-
-```
-regex ("^(?:(?P<scheme>[^:/?#]+):)?(?://(?P<authority>[^/?#]*))?, "https://terraform.io/docs/")
-"authority"= "terraform.io"
-"scheme" = "https"
-```
-
-* replace: searches a given string for another given substring, and replaces each occurrence with a given replacement string.
-* split: produces a list by dividing a given string at all occurrences of a given separator.&#x20;
-* strreve: reverses the characters in a string.&#x20;
-* substr: extracts a substring from a given string by offset and length.&#x20;
-* title: converts the first letter of each word in the given string to uppercase.
-* trim: removes the specified characters from the start and end of the given string.&#x20;
-* trimprefix: removes the specified prefix from the start of the given string. IF the string does not start with the prefix, the string is returned unchanged.&#x20;
-* trimsuffix: removes the specified suffix from the end of the given string.
-* trimspace: removes all type of whitespaces from both the start and the end of a string.&#x20;
-* upper: converts all cased letters in the given string to uppercase.&#x20;
+* **indent:** adds a given number of spaces to the beinnings of all but the first line in a given-line string. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.44.55 pm.png>)
+* **join:** produces a string by concatenating together all elements of a given list of things with the given delimiter. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.45.49 pm.png>)
+* **lower:** converts all cased letters in given string to lowercase.
+* **upper:** converts all case letters in the given string to uppercase.&#x20;
+* **regex (regular expression):** applies a regular expression to a string and returns the matching substrings.
+* **replace:** searches a given string for another given substring, and replaces each occurrence with a given replacement string.
+* **split:** produces a list by dividing a given string at all occurrences of a given separator.&#x20;
+* **strreve:** reverses the characters in a string.&#x20;
+* **substr:** extracts a substring from a given string by offset and length.&#x20;
+* **title:** converts the first letter of each word in the given string to uppercase.
+* **trim:** removes the specified characters from the start and end of the given string.&#x20;
+* **trimprefix:** removes the specified prefix from the start of the given string. IF the string does not start with the prefix, the string is returned unchanged.&#x20;
+* **trimsuffix:** removes the specified suffix from the end of the given string.
+* **trimspace:** removes all type of whitespaces from both the start and the end of a string.&#x20;
+*
 
 
 
