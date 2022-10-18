@@ -82,7 +82,8 @@ Terraform Backends
     * **floor:** returns the closest whole number that is less than or equal to the given value, which may be a fraction.\
       ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.27.50 pm.png>)
     * **Log:** returns the logarithm of a given number in a given base.![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.35.05 pm.png>)&#x20;
-    * **ceil:** returns the closest whole number that is greater than or equal to the given value.![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.35.45 pm.png>) &#x20;
+    * **ceil:** returns the closest whole number that is greater than or equal to the given value.\
+      ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.35.45 pm.png>) &#x20;
     * **min:** takes one or more numbers and returns the smallest number from the set.
     * **max:** takes one or more numbers and returns the greatest number from the set.
     * **parseint:** parses the given string as a representation of an integer in the specified base and returns the resulting number.\
@@ -228,13 +229,55 @@ Terraform Backends
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.44.06 pm.png>)
 * **pathexpand:** Takes a filesystem path that might begin with a \~ segment, and if so it replaces that segment with the current user's home directory path. \
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.42.07 pm.png>)
-* file: Reads the contents of a file at the given path and returns them as a string. \
+* **file:** Reads the contents of a file at the given path and returns them as a string. \
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.45.20 pm.png>)
-* fileexists: Determines whether a file exists at a given path. \
+* **fileexists:** Determines whether a file exists at a given path. \
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.48.23 pm.png>)
-* Data and Time
-* Hash and Crypto
-* IP Network
+* **fileset:** Enumerates a set of regular file names given a path and pattern. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 8.06.05 pm.png>)
+* **filebase64:** Reads the contents of a file at the given path and returns them as a base64-encoded string. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 8.07.50 pm.png>)
+* templatefile: Reads the file at the given path and renders its content as a template using a supplied set of template variables.\
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 8.09.27 pm.png>)\
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 8.15.39 pm.png>)
+*
+
+#### Data and Time Functions
+
+* **formatdate:** Converts a timestamp into a different time format.\
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 8.18.22 pm.png>)
+* **timeadd:** Adds a duration to a timestamp, returning a new timestamp. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 8.18.53 pm.png>)
+* **timestamp:** Returns a UTC timestamp string in RFC 3339 format. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 8.19.13 pm.png>)
+
+
+
+#### Hash and Crypto
+
+Generate hashes and cryptographic strings.&#x20;
+
+* **bcrypt:**![](<../.gitbook/assets/Screen Shot 2022-10-18 at 8.21.19 pm.png>)
+* **base64sha256**
+* **base64sha512**
+* **filebase64sha256**
+* **filebase64sha512**
+* **filemd5**
+* **filesha256**
+* **filesha512**
+* **md5**
+* **rsadecrypt**
+* **sha1**
+* **sha256**
+* **sha512**
+* **uuid**
+* **uuidv5**
+
+&#x20;****&#x20;
+
+#### IP Network **Functions**
+
+* cidrhost: Calculates a full host IP address for a given host number withing a given IP network address prefix.&#x20;
 * Type Conversion
 
 
