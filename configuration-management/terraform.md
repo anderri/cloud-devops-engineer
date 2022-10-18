@@ -59,13 +59,8 @@ Terraform Backends
 
 Complex Types
 
-<pre class="language-hcl" data-overflow="wrap"><code class="lang-hcl"><strong>// List 
-</strong><strong>// Applications  
-</strong>variable "planet" {
-    type = list(string)
-    default = ["mars", "earth", "moon"]
-}
-username = var.planet[0]</code></pre>
+* List: Its like an array, you use an integer as the index to retrieve the value. ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 11.28.10 am.png>)
+* Maps (data table): Its like a ruby hash or single nested json object. You use a key as the index to retrieve the value. ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 11.30.41 am.png>)
 
 ```hcl
 // Maps - is like a data table 
@@ -219,9 +214,22 @@ regex ("^(?:(?P<scheme>[^:/?#]+):)?(?://(?P<authority>[^/?#]*))?, "https://terra
 
 
 
-&#x20;
+#### Collection
 
-* Collection
+* alltrue (operator and): returns true if all elemetns in given collection are true or "true". It also returns true if the collection is empty. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 11.19.14 am.png>)
+* anytrue (operator or): returns true if any element in a given collection is true or "true". It also returns false if the collection is empty.\
+  &#x20;![](<../.gitbook/assets/Screen Shot 2022-10-18 at 11.18.24 am.png>)\
+
+* chunklist: splits a single list into fixed-size chinks, returning a list of lists.![](<../.gitbook/assets/Screen Shot 2022-10-18 at 11.20.08 am.png>)\
+
+* coalesce: takes any number of arguments and returns the first one that isn't null or empty string. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 11.23.37 am.png>)\
+
+* coalescelist: takes any number of list arguments and returns the first one that isn't empty. ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 11.24.08 am.png>)
+
+
+
 * Encoding
 * Filesystem
 * Data and Time
