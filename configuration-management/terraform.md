@@ -2,12 +2,7 @@
 
 #### Install Terraform + autocomplete &#x20;
 
-#### [https://learn.hashicorp.com/tutorials/terraform/install-cli#install-terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli#install-terraform)
-
-####
-
-\
-
+#### [https://learn.hashicorp.com/tutorials/terraform/install-cli#install-terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli#install-terraform) 
 
 #### Terraform Basics
 
@@ -203,7 +198,7 @@ lower("HELLO")
 hello
 ```
 
-* regex: applies a regular expression to a string and returns the matching substrings.
+* regex (regular expression): applies a regular expression to a string and returns the matching substrings.
 
 ```
 regex ("^(?:(?P<scheme>[^:/?#]+):)?(?://(?P<authority>[^/?#]*))?, "https://terraform.io/docs/")
@@ -211,7 +206,21 @@ regex ("^(?:(?P<scheme>[^:/?#]+):)?(?://(?P<authority>[^/?#]*))?, "https://terra
 "scheme" = "https"
 ```
 
-*
+* replace: searches a given string for another given substring, and replaces each occurrence with a given replacement string.
+* split: produces a list by dividing a given string at all occurrences of a given separator.&#x20;
+* strreve: reverses the characters in a string.&#x20;
+* substr: extracts a substring from a given string by offset and length.&#x20;
+* title: converts the first letter of each word in the given string to uppercase.
+* trim: removes the specified characters from the start and end of the given string.&#x20;
+* trimprefix: removes the specified prefix from the start of the given string. IF the string does not start with the prefix, the string is returned unchanged.&#x20;
+* trimsuffix: removes the specified suffix from the end of the given string.
+* trimspace: removes all type of whitespaces from both the start and the end of a string.&#x20;
+* upper: converts all cased letters in the given string to uppercase.&#x20;
+
+
+
+&#x20;
+
 * Collection
 * Encoding
 * Filesystem
