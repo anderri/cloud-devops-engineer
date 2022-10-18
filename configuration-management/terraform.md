@@ -172,8 +172,14 @@ Terraform Backends
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.03.18 pm.png>)
 * **range:** Generates a list of numbers using a start value, a limit value, and a step value.\
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.05.20 pm.png>)
-* **reserve:** Takes a sequence and produces a new sequence of the same length with all of the same elements as the given sequence but in reverse order. \
+* **reverse:** Takes a sequence and produces a new sequence of the same length with all of the same elements as the given sequence but in reverse order. \
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.08.28 pm.png>)
+* **setintersection:** Function takes multiple sets and produces a single set containing only the elements that all of the given sets have in common. In other words, it computes the intersection of the sets.\
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.11.22 pm.png>)
+* setproduct: Function finds all the possible combinations of elements from all of the given sets by computing the Cartesian product. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 7.13.56 pm.png>)
+* setsubtract: Function returns a new set containing the elements from the first set that are not present in the second set. In other words, it computes the relative complement of the first set in the second set. \
+
 * Encoding
 * Filesystem
 * Data and Time
