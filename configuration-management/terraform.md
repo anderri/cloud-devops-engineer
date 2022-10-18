@@ -113,10 +113,14 @@ Terraform Backends
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.44.55 pm.png>)
 * **join:** produces a string by concatenating together all elements of a given list of things with the given delimiter. \
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.45.49 pm.png>)
-* **lower:** converts all cased letters in given string to lowercase.
+* **lower:** converts all cased letters in given string to lowercase. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.46.31 pm.png>)
 * **upper:** converts all case letters in the given string to uppercase.&#x20;
-* **regex (regular expression):** applies a regular expression to a string and returns the matching substrings.
-* **replace:** searches a given string for another given substring, and replaces each occurrence with a given replacement string.
+* **regex (regular expression):** applies a regular expression to a string and returns the matching substrings.\
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.47.03 pm.png>)
+* **regexall (regular expression):** applies a regular expression to a string and returns a list of all matches.
+* **replace:** searches a given string for another given substring, and replaces each occurrence with a given replacement string.\
+  &#x20;![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.48.43 pm.png>)
 * **split:** produces a list by dividing a given string at all occurrences of a given separator.&#x20;
 * **strreve:** reverses the characters in a string.&#x20;
 * **substr:** extracts a substring from a given string by offset and length.&#x20;
