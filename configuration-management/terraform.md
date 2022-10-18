@@ -155,6 +155,8 @@ Terraform Backends
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.58.59 pm.png>)
 * **element:** Retrieves a single element from a list. \
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 2.00.03 pm.png>)
+* **index:** Finds the element index for a given value in a list. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 2.01.06 pm.png>)
 * Encoding
 * Filesystem
 * Data and Time
