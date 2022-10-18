@@ -88,7 +88,7 @@ Terraform Backends
     * floor: returns the closest whole number that is less than or equal to the given value, which may be a fraction.\
       ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.27.50 pm.png>)
     * Log: returns the logarithm of a given number in a given base.![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.35.05 pm.png>)&#x20;
-    * ceil: returns the closest whole number that is greater than or equal to the given value.&#x20;
+    * ceil: returns the closest whole number that is greater than or equal to the given value.![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.35.45 pm.png>) &#x20;
     * min: takes one or more numbers and returns the smallest number from the set.
     * max: takes one or more numbers and returns the greatest number from the set.
     * parseint: parses the given string as a representation of an integer in the specified base and returns the resulting number.
