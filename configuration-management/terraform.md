@@ -72,7 +72,7 @@ Terraform Backends
 
 * **Object:** A structural type allows multiple values of several distinct type to be grouped together as a single value. Structural types a schema as an argument, to specify which types are allowed for which elements. \
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.13.24 pm.png>)
-* **Tuple:** A&#x20;
+* **Tuple:** A ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.24.12 pm.png>)
 
 ```hcl
 // Tuple - is like a group with differ type value
