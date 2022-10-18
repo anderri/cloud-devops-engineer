@@ -149,6 +149,12 @@ Terraform Backends
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.55.18 pm.png>)
 * **concat:** Takes two or more lists and combines them into a single list.\
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.56.19 pm.png>)
+* **contains:** Determines whether a given list or set contains a given single value as one of its elements. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.57.34 pm.png>)
+* distinct: Takes a list a returns a new list with any duplicate elements removed. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 1.58.59 pm.png>)
+* **element:** Retrieves a single element from a list. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 2.00.03 pm.png>)
 * Encoding
 * Filesystem
 * Data and Time
