@@ -161,6 +161,10 @@ Terraform Backends
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 2.02.20 pm.png>)
 * keys: Takes a map and returns a list containing the keys from that map.\
   ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 2.03.27 pm.png>)
+* **length:** Determines the length of a given list, map, or string. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 2.05.11 pm.png>)
+* lookup: Retrieves the value of a single element from a map, given its key. If the given key does not exist, the given default value is returned instead. \
+  ![](<../.gitbook/assets/Screen Shot 2022-10-18 at 2.07.53 pm.png>)
 * Encoding
 * Filesystem
 * Data and Time
