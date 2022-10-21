@@ -359,7 +359,14 @@ Booking Your Exam
 
 #### Move AWS Credentials to Env Vars&#x20;
 
+\
+\
+\
 
 
-&#x20;
+### Questions for exam
+
+[https://www.whizlabs.com/blog/terraform-certification-exam-questions/](https://www.whizlabs.com/blog/terraform-certification-exam-questions/)
+
+
 
