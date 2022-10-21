@@ -370,3 +370,5 @@ Booking Your Exam
 
 [https://www.freecram.net/question/HashiCorp.TA-002-P.v2021-12-18.q113/if-a-module-uses-a-local-variable-you-can-expose-that-value-with-a-terraform-output](https://www.freecram.net/question/HashiCorp.TA-002-P.v2021-12-18.q113/if-a-module-uses-a-local-variable-you-can-expose-that-value-with-a-terraform-output)
 
+[https://www.freecram.net/exam/TA-002-P-hashicorp-certified-terraform-associate-e11859.html](https://www.freecram.net/exam/TA-002-P-hashicorp-certified-terraform-associate-e11859.html)
+
