@@ -368,5 +368,5 @@ Booking Your Exam
 
 [https://www.whizlabs.com/blog/terraform-certification-exam-questions/](https://www.whizlabs.com/blog/terraform-certification-exam-questions/)
 
-
+[https://www.freecram.net/question/HashiCorp.TA-002-P.v2021-12-18.q113/if-a-module-uses-a-local-variable-you-can-expose-that-value-with-a-terraform-output](https://www.freecram.net/question/HashiCorp.TA-002-P.v2021-12-18.q113/if-a-module-uses-a-local-variable-you-can-expose-that-value-with-a-terraform-output)
 
