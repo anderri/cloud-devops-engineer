@@ -372,3 +372,4 @@ Booking Your Exam
 
 [https://www.freecram.net/exam/TA-002-P-hashicorp-certified-terraform-associate-e11859.html](https://www.freecram.net/exam/TA-002-P-hashicorp-certified-terraform-associate-e11859.html)
 
+[https://medium.com/bb-tutorials-and-thoughts/250-practice-questions-for-terraform-associate-certification-7a3ccebe6a1a](https://medium.com/bb-tutorials-and-thoughts/250-practice-questions-for-terraform-associate-certification-7a3ccebe6a1a)
