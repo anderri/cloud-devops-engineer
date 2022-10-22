@@ -366,10 +366,17 @@ Booking Your Exam
 
 ### Questions for exam
 
-[https://www.whizlabs.com/blog/terraform-certification-exam-questions/](https://www.whizlabs.com/blog/terraform-certification-exam-questions/)
+{% embed url="https://learn.hashicorp.com/collections/terraform/certification" %}
 
-[https://www.freecram.net/question/HashiCorp.TA-002-P.v2021-12-18.q113/if-a-module-uses-a-local-variable-you-can-expose-that-value-with-a-terraform-output](https://www.freecram.net/question/HashiCorp.TA-002-P.v2021-12-18.q113/if-a-module-uses-a-local-variable-you-can-expose-that-value-with-a-terraform-output)
+{% embed url="https://www.whizlabs.com/blog/terraform-certification-exam-questions/" %}
 
-[https://www.freecram.net/exam/TA-002-P-hashicorp-certified-terraform-associate-e11859.html](https://www.freecram.net/exam/TA-002-P-hashicorp-certified-terraform-associate-e11859.html)
+{% embed url="https://www.freecram.net/question/HashiCorp.TA-002-P.v2021-12-18.q113/if-a-module-uses-a-local-variable-you-can-expose-that-value-with-a-terraform-output" %}
 
-[https://medium.com/bb-tutorials-and-thoughts/250-practice-questions-for-terraform-associate-certification-7a3ccebe6a1a](https://medium.com/bb-tutorials-and-thoughts/250-practice-questions-for-terraform-associate-certification-7a3ccebe6a1a)
+{% embed url="https://www.freecram.net/exam/TA-002-P-hashicorp-certified-terraform-associate-e11859.html" %}
+
+{% embed url="https://medium.com/bb-tutorials-and-thoughts/250-practice-questions-for-terraform-associate-certification-7a3ccebe6a1a" %}
+
+{% embed url="https://www.udemy.com/course/terraform-associate-practice-exam/" %}
+
+{% embed url="https://www.freecram.net/pdf/TA-002-P.pdf" %}
+
