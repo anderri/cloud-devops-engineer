@@ -1,6 +1,8 @@
 # 8. Infrastructure as Code - IaC
 
-
+\
+\
+Next, you define the following Ansible playbook:
 
 ### What is Infrastructure as Code?
 
@@ -87,3 +89,52 @@ For example, here is a Packer template called web-server.json that creates an Am
      }]
    }     
 ```
+
+The code looks similar to the Bash script, but using a tool like Ansible offers a number o advantages:
+
+#### Coding conventions
+
+Ansible enforces a consistent, predictable strucuture, including documentation, file layout, clearly named parameters, secrets management, and so on. While every developer organizes their ad hoc scripts in a different way, most configuration management tools come with a set of conventions that makes it easier to navigate the code.&#x20;
+
+#### Idempotence&#x20;
+
+Writing an ad hoc script that works once isn't too difficult; writing an ad hoc script works correctly even if you run it over and over again is a lot more difficult. Every time you go to create a folder in your script, you need to remember to check whether that folder already exists; every time you add a line of configuration to a file, you need to check that line doesn't exist; every time you want to run an app, you need to check that the app isn't already running.&#x20;
+
+Code that works correctly no matter how many times you run it is called idempotent code. To make the Bash script from the previous section idempotent, you'd need to add many lines of code, including lots of if-statements. Most Ansible functions, on the other hand, are idempotent by default. For example, the web-server.yml Ansible role will install Apache only if it isn't installed already and will try start the Apache web server only if it isn't running already.&#x20;
+
+#### Distribution
+
+Ad hoc scripts are designed to run a single, local machine. Ansible and other configuration management tools are designed specifically for managing large numbers of remote servers, as shown in Figure 1-2.
+
+
+
+![](<../../.gitbook/assets/Screen Shot 2022-10-28 at 7.26.01 pm.png>)
+
+&#x20;
+
+For example, to apply the web-server.yml role to five servers, you first create a file called hosts that contains the IP addresses of those servers:
+
+```yaml
+// Some code
+[webservers]
+11.11.11.11
+11.11.11.12
+11.11.11.13
+```
+
+Next, you define the following Ansible playbook:
+
+```
+// Some code
+- hosts: webservers
+  roles:
+  - webserver
+```
+
+Finally, you execute the playbook as follows:&#x20;
+
+```
+// Some code
+ansible-playbook playbook.yml
+```
+
