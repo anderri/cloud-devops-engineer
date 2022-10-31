@@ -38,6 +38,14 @@ Tips:&#x20;
 
 ![](<../../.gitbook/assets/Screen Shot 2022-10-31 at 5.51.33 pm.png>)
 
+### ![](<../../.gitbook/assets/Screen Shot 2022-10-31 at 7.16.34 pm.png>)
+
+
+
+![](<../../.gitbook/assets/Screen Shot 2022-10-31 at 7.17.34 pm.png>)
+
+### ![](<../../.gitbook/assets/Screen Shot 2022-10-31 at 7.19.17 pm.png>)
+
 ### Glacier
 
 
