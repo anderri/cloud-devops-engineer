@@ -35,6 +35,7 @@
   * [AWS](4.-cloud/aws/README.md)
     * [001 - Practioner](4.-cloud/aws/001-practioner.md)
     * [002 - SAA Solution Architect Associate](4.-cloud/aws/002-saa-solution-architect-associate.md)
+    * [003 - SAP - Solution Architect Professional](4.-cloud/aws/003-sap-solution-architect-professional.md)
   * [Azure](8.-clouds/azure.md)
   * [GCP](8.-clouds/gcp.md)
 * [5. Code Repository - Git](5.-code-repository-git/README.md)
