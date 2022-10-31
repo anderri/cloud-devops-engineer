@@ -77,26 +77,9 @@ Version: 5.0.5&#x20;
 
 ## Docker Basic Commands <a href="#title" id="title"></a>
 
-| Docker +                | Description                         | test |
-| ----------------------- | ----------------------------------- | ---- |
-| pull                    | download image                      |      |
-| run                     | creates the container and starts it |      |
-| start                   | start any stopped containers        |      |
-| stop                    | stop container                      |      |
-| ps                      | list running containers ONLY        |      |
-| logs + container id     |                                     |      |
-| exec -it DB /bin/bash   | interact with container             |      |
-| env                     | environment                         |      |
-| network ls              |                                     |      |
-| network create postgres |                                     |      |
+<table><thead><tr><th>Docker +</th><th>Description</th><th data-hidden>test</th></tr></thead><tbody><tr><td>pull</td><td>download image</td><td></td></tr><tr><td>run</td><td>creates the container and starts it</td><td></td></tr><tr><td>start</td><td>start any stopped containers</td><td></td></tr><tr><td>stop</td><td>stop container</td><td></td></tr><tr><td>ps</td><td>list running containers ONLY</td><td></td></tr><tr><td>logs + container id</td><td></td><td></td></tr><tr><td>exec -it DB /bin/bash</td><td>interact with container</td><td></td></tr><tr><td>env</td><td>environment </td><td></td></tr><tr><td>network ls</td><td></td><td></td></tr><tr><td>network create postgres</td><td></td><td></td></tr></tbody></table>
 
-| RUN            | Description                         |   |
-| -------------- | ----------------------------------- | - |
-| -d             | detached mode                       |   |
-| -p             | docker port 6000 and host port 6795 |   |
-| -- name DB     | container name = DB                 |   |
-| postgres:10.10 | image name and tag/version          |   |
-| net --name     |                                     |   |
+<table><thead><tr><th>RUN</th><th>Description</th><th data-hidden></th></tr></thead><tbody><tr><td>-d</td><td>detached mode</td><td></td></tr><tr><td>-p</td><td>docker port 6000 and host port 6795</td><td></td></tr><tr><td>-- name DB</td><td>container name = DB</td><td></td></tr><tr><td>postgres:10.10</td><td>image name and tag/version</td><td></td></tr><tr><td>net --name</td><td></td><td></td></tr></tbody></table>
 
 {% code title="example" %}
 ```

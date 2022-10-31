@@ -46,6 +46,7 @@
   * [Bamboo](6.-ci-cd-pipeline/bamboo.md)
   * [Jenkins](6.-ci-cd-pipeline/jenkins.md)
   * [ArgoCD](6.-ci-cd-pipeline/argocd.md)
+  * [Azure DevOps: Repository & Pipeline Management](6.-ci-cd-pipeline/azure-devops-repository-and-pipeline-management.md)
 * [7. Container Operating Platfrom](container/README.md)
   * [Docker](container/docker.md)
   * [Kubernetes](container/kubernetes.md)
