@@ -69,3 +69,45 @@ Plan -> Code -> Integrate -> Test -> Release -> Deploy -> Operate
 
 
 
+### Version Control Workflow and Azure Repos
+
+&#x20;![](<../.gitbook/assets/Screen Shot 2022-10-31 at 1.43.38 pm.png>)
+
+Web Hooks -> Event Driven&#x20;
+
+API -> Request & Response
+
+
+
+#### Simple Branching Strategy
+
+* Use feature branches for new features and bug fixes
+* Merge feature branches into a master branch with pull requests
+* Maintain high quality and up-to-date master branch.&#x20;
+
+Steps:&#x20;
+
+* Install git
+* git init .
+* git status
+* go to Azure DevOps -> Select Organization -> Create new project
+* Go to AzDevOps->Project->Repos->Files-> "Push an existing repository from command line" and copy https
+* git remove add origin https://asdfasdfas
+* git push -u origin --all&#x20;
+
+#### Branching with AzureDevOps
+
+* AzDevOps->Repos->Branches>New branch
+* Name it, Select the branch and work items
+
+#### Buld Pipeline
+
+* Install azure-cli
+* az extension add --name azure-devops
+* devops configure --defaults organization=//dev/azure/com/organizationame project=name
+* az login
+* az pipelines create --name "testpipeline.CI" --repository https://github.com/name/pipelines-java.git --branch master&#x20;
+* Commit directly to the master branch or Create a new branch for this commit and start a pull request.&#x20;
+
+
+
