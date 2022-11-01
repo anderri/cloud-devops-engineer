@@ -50,13 +50,29 @@ Goals: Fast -> Automated -> High Quality![](<../.gitbook/assets/Screen Shot 2022
 
 ### Release&#x20;
 
-#### Azure Pipelines - CI -> Cont. Integration ![](<../.gitbook/assets/Screen Shot 2022-11-01 at 1.27.57 pm.png>) Option 1: YAML Option 2: Task
+#### Build Stage&#x20;
+
+#### Azure Pipelines - CI -> Cont. Integration
+
+#### ![](<../.gitbook/assets/Screen Shot 2022-11-01 at 2.56.06 pm.png>) ![](<../.gitbook/assets/Screen Shot 2022-11-01 at 1.27.57 pm.png>) Option 1: YAML Option 2: Task
 
 Pool:
 
 Agent: Computing infra (Windows, Linux and MacOS)
 
-#### Azure Artifacts - CD -> Cont. Deploy
+#### Deploy Stage&#x20;
+
+![](<../.gitbook/assets/Screen Shot 2022-11-01 at 2.56.56 pm.png>)![](<../.gitbook/assets/Screen Shot 2022-11-01 at 2.59.31 pm.png>)
+
+#### Templates
+
+#### Environments
+
+#### Releases
+
+
+
+#### Azure Artifacts - CD -> Cont. Deploy & Delivery
 
 Option 1 -> Docker Images -> Container Registries\
 \- Docker Hub\
@@ -68,3 +84,26 @@ Option 2 -> Package\
 \- Nuka\
 \- NPM
 
+###
+
+### Test Stage
+
+#### Azure Test Plans
+
+\
+\
+
+
+### Service Connections
+
+Project Settings-> Service Connections
+
+![](<../.gitbook/assets/Screen Shot 2022-11-01 at 3.25.31 pm.png>)
+
+
+
+### Comparasion&#x20;
+
+![](<../.gitbook/assets/Screen Shot 2022-11-01 at 3.33.58 pm.png>)
+
+\
