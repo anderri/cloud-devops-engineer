@@ -42,9 +42,12 @@ Goals: Fast -> Automated -> High Quality![](<../.gitbook/assets/Screen Shot 2022
 
 ![](<../.gitbook/assets/image (1).png>)
 
-
+![](<../.gitbook/assets/Screen Shot 2022-11-01 at 1.17.00 pm.png>)
 
 #### ![](<../.gitbook/assets/Screen Shot 2022-11-01 at 12.48.44 pm.png>)
 
 
 
+### Code ->&#x20;
+
+#### Azure Repos (Git)
