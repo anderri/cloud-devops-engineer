@@ -48,6 +48,23 @@ Goals: Fast -> Automated -> High Quality![](<../.gitbook/assets/Screen Shot 2022
 
 
 
-### Code ->&#x20;
+### Release&#x20;
 
-#### Azure Repos (Git)
+#### Azure Pipelines - CI -> Cont. Integration ![](<../.gitbook/assets/Screen Shot 2022-11-01 at 1.27.57 pm.png>) Option 1: YAML Option 2: Task
+
+Pool:
+
+Agent: Computing infra (Windows, Linux and MacOS)
+
+#### Azure Artifacts - CD -> Cont. Deploy
+
+Option 1 -> Docker Images -> Container Registries\
+\- Docker Hub\
+\- Azure Container Registry\
+\- Amazon ECR
+
+Option 2 -> Package\
+\- Maven\
+\- Nuka\
+\- NPM
+
