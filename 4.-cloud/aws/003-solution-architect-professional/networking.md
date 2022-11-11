@@ -74,7 +74,47 @@ Internet Gateway (VPC to the Internet)&#x20;
 
 
 
+### &#x20;Network to VPC Connectivity
 
+#### AWS Managed VPN
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-11 at 11.06.37 am.png>)
+
+#### ![](<../../../.gitbook/assets/Screen Shot 2022-11-11 at 11.08.25 am.png>)
+
+#### ![](<../../../.gitbook/assets/Screen Shot 2022-11-11 at 11.08.58 am.png>)
+
+#### AWS Direct Connect&#x20;
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-11 at 11.09.19 am.png>)
+
+#### ![](<../../../.gitbook/assets/Screen Shot 2022-11-11 at 11.10.47 am.png>)
+
+#### AWS Direct Connect + VPN
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-11 at 11.11.30 am.png>)
+
+#### AWS VPN CloudHub
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-11 at 11.12.46 am.png>)
+
+#### ![](<../../../.gitbook/assets/Screen Shot 2022-11-11 at 11.13.37 am.png>)
+
+#### Software VPN
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-11 at 11.13.56 am.png>)
+
+#### ![](<../../../.gitbook/assets/Screen Shot 2022-11-11 at 11.14.32 am.png>)
+
+#### Transit VPC
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-11 at 11.14.51 am.png>)
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-11 at 11.15.36 am.png>)
+
+
+
+### &#x20;VPC to VPC Connectivity
 
 
 
