@@ -166,8 +166,22 @@ Internet Gateway (VPC to the Internet)&#x20;
 
 ![](<../../../.gitbook/assets/Screen Shot 2022-11-14 at 4.30.49 pm.png>)
 
-#### A
+#### ![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 9.50.29 am.png>)
+
+#### BGP Weithting
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 9.56.53 am.png>)
+
+### Enhanced Networking
+
+#### ![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 9.58.09 am.png>)
+
+#### Placement Groups
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 9.59.30 am.png>)
+
+#### ![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 10.54.04 am.png>)
 
 
 
-#### A
+####
