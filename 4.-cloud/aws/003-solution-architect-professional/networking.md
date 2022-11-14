@@ -74,7 +74,7 @@ Internet Gateway (VPC to the Internet)&#x20;
 
 
 
-### &#x20;Network to VPC Connectivity
+### &#x20;On Premise Network to VPC Connectivity
 
 #### AWS Managed VPN
 
@@ -114,7 +114,41 @@ Internet Gateway (VPC to the Internet)&#x20;
 
 
 
-### &#x20;VPC to VPC Connectivity
+### VPC to VPC Connectivity
+
+#### VPC Peering 🌟
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-11 at 11.22.07 am.png>)
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-11 at 11.23.39 am.png>)
+
+#### Software VPN
+
+
+
+#### Software to AWS Managed VPN
+
+
+
+#### AWS Managed VPN
+
+
+
+#### AWS Direct Connect
+
+
+
+
+
+#### AWS PrivateLink 🌟
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-11 at 11.24.00 am.png>)
+
+#### VPC Endpoints
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-11 at 11.25.30 am.png>)
+
+
 
 
 
