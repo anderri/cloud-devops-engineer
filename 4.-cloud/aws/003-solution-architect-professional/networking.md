@@ -74,7 +74,7 @@ Internet Gateway (VPC to the Internet)&#x20;
 
 
 
-### &#x20;On Premise Network to VPC Connectivity
+### On-Premise Network to VPC Connectivity
 
 #### AWS Managed VPN
 
@@ -124,21 +124,11 @@ Internet Gateway (VPC to the Internet)&#x20;
 
 #### Software VPN
 
-
-
 #### Software to AWS Managed VPN
-
-
 
 #### AWS Managed VPN
 
-
-
 #### AWS Direct Connect
-
-
-
-
 
 #### AWS PrivateLink 🌟
 
@@ -150,5 +140,34 @@ Internet Gateway (VPC to the Internet)&#x20;
 
 
 
+### Internet Gateways&#x20;
+
+#### Internet Gateway
 
 
+
+#### Egress-Only Internet Gateway
+
+
+
+#### NAT Instance
+
+
+
+#### NAT Gateway
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-14 at 3.17.04 pm.png>)
+
+
+
+### Routing&#x20;
+
+#### Routing Tables
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-14 at 4.30.49 pm.png>)
+
+#### A
+
+
+
+#### A
