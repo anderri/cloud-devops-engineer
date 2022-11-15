@@ -182,6 +182,97 @@ Internet Gateway (VPC to the Internet)&#x20;
 
 #### ![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 10.54.04 am.png>)
 
+![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 7.47.14 pm.png>)
 
 
-####
+
+### Route 53
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 7.49.14 pm.png>)
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 7.50.56 pm.png>)
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 7.51.25 pm.png>)
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 7.51.37 pm.png>)
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 7.52.33 pm.png>)
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 7.53.53 pm.png>)
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 7.54.17 pm.png>)
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 7.55.04 pm.png>)
+
+
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 7.56.12 pm.png>)
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 7.56.53 pm.png>)
+
+
+
+### CloudFront&#x20;
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 7.58.40 pm.png>)
+
+
+
+
+
+### Elastic Load Balancer
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 8.03.02 pm.png>)
+
+
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 8.04.52 pm.png>)
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 8.06.06 pm.png>)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
