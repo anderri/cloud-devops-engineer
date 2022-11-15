@@ -230,29 +230,29 @@ Internet Gateway (VPC to the Internet)&#x20;
 
 ![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 8.06.06 pm.png>)
 
+![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 8.07.18 pm.png>)
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 8.07.49 pm.png>)
 
 
 
+![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 8.08.14 pm.png>)
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 8.09.05 pm.png>)
 
 
 
+### Exam Tips
 
+![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 8.09.58 pm.png>)
 
+![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 8.10.58 pm.png>)
 
+![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 8.11.41 pm.png>)
 
+![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 8.12.17 pm.png>)
 
-
-
-
-
-
-
-
-
-
-
-
-
+![](<../../../.gitbook/assets/Screen Shot 2022-11-15 at 8.14.01 pm.png>)
 
 
 
