@@ -256,6 +256,8 @@ Internet Gateway (VPC to the Internet)&#x20;
 
 
 
+## LABS
+
 ### Creating and Configuring a Network Load Balancer in AWS&#x20;
 
 Instance A
@@ -295,6 +297,8 @@ while true; do curl <LOAD BALANCER DNS NAME>; done
 ```
 
 
+
+### Troubleshooting Amazon EC2 Network Connectivity
 
 
 
