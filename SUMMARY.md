@@ -1,8 +1,9 @@
 # Table of contents
 
-* [1. Programming Languages](README.md)
+* [00 -](README.md)
+* [1. Programming Languages](<README (1).md>)
   * [Java Script](1.-programming-languages/java-script.md)
-  * [Python](<README (1).md>)
+  * [Python](<README (1) (1).md>)
   * [Bash](4.-servers/bash.md)
   * [PowerShell](4.-servers/powershell.md)
   * [JSON](files-extensions/json.md)
@@ -64,17 +65,10 @@
 * [8. Infrastructure as Code - IaC](5.-infrastructure-as-code/configuration-management/README.md)
   * [Terraform](configuration-management/terraform.md)
   * [Ansible](5.-infrastructure-as-code/configuration-management/ansible.md)
-
-## 7. Monitoring and Logging
-
-* [Zabbix](7.-monitoring-and-logging/zabbix.md)
-
-***
-
-* [10. Career Path - Australia](10.-career-path-australia/README.md)
-  * [Visas](10.-career-path-australia/visas.md)
-  * [CV - Template](10.-career-path-australia/cv-template.md)
-  * [Searching for Job](10.-career-path-australia/searching-for-job.md)
-  * [Meetups](10.-career-path-australia/meetups.md)
-  * [Perguntas](10.-career-path-australia/perguntas.md)
-* [Accenture Mid Engineer](accenture-mid-engineer.md)
+* [99. Career Path - Australia](99.-career-path-australia/README.md)
+  * [Visas](99.-career-path-australia/visas.md)
+  * [CV - Template](99.-career-path-australia/cv-template.md)
+  * [Searching for Job](99.-career-path-australia/searching-for-job.md)
+  * [Meetups](99.-career-path-australia/meetups.md)
+  * [Perguntas](99.-career-path-australia/perguntas.md)
+* [Mid Engineer](mid-engineer.md)
