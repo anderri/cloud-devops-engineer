@@ -300,7 +300,11 @@ while true; do curl <LOAD BALANCER DNS NAME>; done
 
 ### Troubleshooting Amazon EC2 Network Connectivity
 
+![](<../../../.gitbook/assets/Screen Shot 2022-11-21 at 9.23.54 am.png>)
 
+Instance 3 is unable to access the Internet.\
+\- Missing public IP address \
+\-&#x20;
 
 
 
