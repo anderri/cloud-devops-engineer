@@ -1,5 +1,25 @@
 # Security
 
+### Concepts
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-21 at 10.52.04 am.png>)
+
+### ![](<../../../.gitbook/assets/Screen Shot 2022-11-21 at 10.52.18 am.png>)
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-21 at 10.53.41 am.png>)
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-21 at 10.56.45 am.png>)
+
+###
+
+### Multi-Account Management&#x20;
+
+
+
+
+
+
+
 ### AWS Directory Services&#x20;
 
 ![](<../../../.gitbook/assets/Screen Shot 2022-11-21 at 10.33.12 am.png>)
