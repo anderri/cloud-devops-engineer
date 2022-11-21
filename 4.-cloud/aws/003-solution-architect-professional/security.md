@@ -14,9 +14,39 @@
 
 ### Multi-Account Management&#x20;
 
+![](<../../../.gitbook/assets/Screen Shot 2022-11-21 at 12.03.08 pm.png>)
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-21 at 12.03.20 pm.png>)
+
+### ![](<../../../.gitbook/assets/Screen Shot 2022-11-21 at 12.05.54 pm.png>)
+
+### ![](<../../../.gitbook/assets/Screen Shot 2022-11-21 at 12.06.26 pm.png>)
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-21 at 12.06.55 pm.png>)
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-21 at 12.07.27 pm.png>)
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-21 at 12.08.10 pm.png>)
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-21 at 12.08.20 pm.png>)
+
+### ![](<../../../.gitbook/assets/Screen Shot 2022-11-21 at 12.09.39 pm.png>)
+
+### ![](<../../../.gitbook/assets/Screen Shot 2022-11-21 at 12.12.05 pm.png>)
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-21 at 12.12.25 pm.png>)
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-21 at 12.12.39 pm.png>)
 
 
 
+### Network Controls and Security Groups
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-21 at 12.14.52 pm.png>)
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-21 at 12.15.25 pm.png>)
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-21 at 12.16.03 pm.png>)
 
 
 
