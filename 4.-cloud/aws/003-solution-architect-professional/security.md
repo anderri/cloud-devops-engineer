@@ -124,13 +124,27 @@
 
 ### Exam Tips
 
+![](<../../../.gitbook/assets/Screen Shot 2022-11-22 at 9.59.56 am.png>)
 
+![](<../../../.gitbook/assets/Screen Shot 2022-11-22 at 10.00.31 am.png>)
 
+![](<../../../.gitbook/assets/Screen Shot 2022-11-22 at 10.01.09 am.png>)
 
+![](<../../../.gitbook/assets/Screen Shot 2022-11-22 at 10.01.39 am.png>)
 
+{% embed url="https://www.youtube.com/watch?v=fxo67UeeN1A" %}
 
+{% embed url="https://www.youtube.com/watch?v=71fD8Oenwxc" %}
 
+{% embed url="https://www.youtube.com/watch?v=tzJmE_Jlas0" %}
 
+{% embed url="https://www.youtube.com/watch?v=YQsK4MtsELU" %}
 
+{% embed url="https://www.youtube.com/watch?v=gjrcoK8T3To" %}
 
+{% embed url="https://d1.awsstatic.com/whitepapers/Security/DDoS_White_Paper.pdf" %}
+
+{% embed url="https://docs.aws.amazon.com/pdfs/wellarchitected/latest/security-pillar/wellarchitected-security-pillar.pdf" %}
+
+{% embed url="https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/organizing-your-aws-environment.html" %}
 
