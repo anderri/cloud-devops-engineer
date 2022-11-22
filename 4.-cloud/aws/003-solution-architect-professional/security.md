@@ -148,3 +148,15 @@
 
 {% embed url="https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/organizing-your-aws-environment.html" %}
 
+### Pro Tips
+
+![](<../../../.gitbook/assets/Screen Shot 2022-11-22 at 10.45.14 am.png>)
+
+
+
+
+
+
+
+
+
