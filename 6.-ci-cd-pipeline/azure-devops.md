@@ -38,7 +38,7 @@ Goals: Fast -> Automated -> High Quality![](<../.gitbook/assets/Screen Shot 2022
 
 #### GitHub Flow / Trunk based
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (5).png>)
 
 
 

@@ -1,16 +1,20 @@
-# 00 -
+# 00 - Skills
 
+## Roadmap
 
-
-![](<.gitbook/assets/image (4).png>)
+![](.gitbook/assets/image.png)
 
 ![](<.gitbook/assets/image (2).png>)
 
-![](<.gitbook/assets/image (3).png>)
+![](<.gitbook/assets/image (4).png>)
 
 
 
-Certification Path
+
+
+
+
+## Certification Path
 
 1. Cloud Practitioner
 2. Solutions Architect Associate

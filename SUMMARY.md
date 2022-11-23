@@ -65,12 +65,6 @@
 * [8. Infrastructure as Code - IaC](5.-infrastructure-as-code/configuration-management/README.md)
   * [Terraform](configuration-management/terraform.md)
   * [Ansible](5.-infrastructure-as-code/configuration-management/ansible.md)
-* [99. Career Path - Australia](99.-career-path-australia/README.md)
-  * [Visas](99.-career-path-australia/visas.md)
-  * [CV - Template](99.-career-path-australia/cv-template.md)
-  * [Searching for Job](99.-career-path-australia/searching-for-job.md)
-  * [Meetups](99.-career-path-australia/meetups.md)
-  * [Perguntas](99.-career-path-australia/perguntas.md)
 * [Mid Engineer](mid-engineer.md)
 
 ## DevOps
