@@ -75,4 +75,14 @@
 
 ## DevOps
 
-* [Page 1](devops/page-1.md)
+* [1 - Plan](devops/1-plan.md)
+
+***
+
+* [2 - Code](2-code.md)
+* [3 - Build](3-build.md)
+* [3 - Test](3-test.md)
+* [4 - Release](4-release.md)
+* [5 - Deploy](5-deploy.md)
+* [6 - Operate](6-operate.md)
+* [7 - Monitor](7-monitor.md)
