@@ -1,4 +1,17 @@
+---
+description: >-
+  https://aws.amazon.com/certification/certified-solutions-architect-professional/
+---
+
 # 003 - Solution Architect Professional
+
+Exam Blueprint&#x20;
+
+{% embed url="https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS-Certified-Solutions-Architect-Professional_Exam-Guide.pdf" %}
+
+
+
+
 
 
 
