@@ -16,10 +16,10 @@
 
 ## Certification Path
 
-1. Cloud Practitioner
-2. Solutions Architect Associate
-3. Terraform&#x20;
-4. Solutions Architect Professional
+1. Cloud Practitioner - Done
+2. Solutions Architect Associate - Done
+3. Terraform  - Done
+4. Solutions Architect Professional - In progress
 5. DevOps Engineer
 6. SysOps Administrator Associate
 7. Developer
