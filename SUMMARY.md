@@ -81,8 +81,8 @@
 
 * [2 - Code](2-code.md)
 * [3 - Build](3-build.md)
-* [3 - Test](3-test.md)
-* [4 - Release](4-release.md)
-* [5 - Deploy](5-deploy.md)
-* [6 - Operate](6-operate.md)
-* [7 - Monitor](7-monitor.md)
+* [4 - Test](4-test.md)
+* [5 - Release](5-release.md)
+* [6 - Deploy](6-deploy.md)
+* [7 - Operate](7-operate.md)
+* [8 - Monitor](8-monitor.md)
