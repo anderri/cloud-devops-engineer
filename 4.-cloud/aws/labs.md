@@ -62,7 +62,23 @@ Instance 3 is unable to access the Internet.\
 SQS\
 \- Name: Messages\
 \- Type: Standard\
-\- Encryption: Amazon SQS key (SSE-SQS)
+\- Encryption: Amazon SQS key (SSE-SQS)\
+\
+Auto Scaling Group\
+\- Desired capacity: 1\
+\- Minimum capacity: 1\
+\- Maximum capacity: 4\
+\
+CloudWatch\
+Scale Out\
+\- Metric: SQS -> Approximate NumberOfMessagesVisable\
+\- Period: 1 minute\
+\- Conditions: Static, Greater > 500 \
+\
+Scale In\
+\- Metric: SQS -> Approximate NumberOfMessagesVisable\
+\- Period: 1 minute\
+\- Conditions: Static, Lower > 500&#x20;
 
 ```python
 #!/usr/bin/env python3
