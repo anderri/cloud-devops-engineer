@@ -45,6 +45,7 @@
       * [Business Continuity](4.-cloud/aws/003-solution-architect-professional/business-continuity.md)
       * [Deployment and Operations Management](4.-cloud/aws/003-solution-architect-professional/deployment-and-operations-management.md)
       * [Cost Management](4.-cloud/aws/003-solution-architect-professional/cost-management.md)
+    * [Labs](4.-cloud/aws/labs.md)
   * [Azure](8.-clouds/azure.md)
   * [GCP](8.-clouds/gcp.md)
 * [5. Code Repository - Git](5.-code-repository-git/README.md)
