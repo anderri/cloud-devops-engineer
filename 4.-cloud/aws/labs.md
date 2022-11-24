@@ -2,8 +2,6 @@
 
 ### 1 - Creating and Configuring a Network Load Balancer in AWS&#x20;
 
-###
-
 Instance A
 
 ```
@@ -57,7 +55,7 @@ Instance 3 is unable to access the Internet.\
 
 
 
-## Scaling EC2 Using SQS
+## 3 - Scaling EC2 Using SQS
 
 SQS\
 \- Name: Messages\
@@ -70,12 +68,12 @@ Auto Scaling Group\
 \- Maximum capacity: 4\
 \
 CloudWatch\
-Scale Out\
+Scale-Out\
 \- Metric: SQS -> Approximate NumberOfMessagesVisable\
 \- Period: 1 minute\
 \- Conditions: Static, Greater > 500 \
 \
-Scale In\
+Scale-In\
 \- Metric: SQS -> Approximate NumberOfMessagesVisable\
 \- Period: 1 minute\
 \- Conditions: Static, Lower > 500&#x20;
