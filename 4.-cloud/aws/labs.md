@@ -61,7 +61,8 @@ Instance 3 is unable to access the Internet.\
 
 SQS\
 \- Name: Messages\
-\- Type: Standard
+\- Type: Standard\
+\- Encryption: Amazon SQS key (SSE-SQS)
 
 ```python
 #!/usr/bin/env python3
