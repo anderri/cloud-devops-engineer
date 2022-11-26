@@ -129,3 +129,18 @@ while True:
 
 
 
+## 4 - Auto-Scaling Experiment
+
+Step 1: Install the "Stress" Linux tool ->&#x20;
+
+```
+brew install stress-ng
+sudo apt-get install stress
+```
+
+Step 2:&#x20;
+
+
+
+
+
