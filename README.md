@@ -1,8 +1,27 @@
-# 000 - Laptop Setup
+# 00 - Skills
 
-| Software            | Link                                                                                                                                             |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| MS Visual Studio    |                                                                                                                                                  |
-| Yaml Syntax Support | [https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) |
-| Online Yaml tools   | [https://onlineyamltools.com/edit-yaml](https://onlineyamltools.com/edit-yaml)                                                                   |
+## Roadmap
 
+![](.gitbook/assets/image.png)
+
+![](<.gitbook/assets/image (2).png>)
+
+![](<.gitbook/assets/image (4).png>)
+
+
+
+
+
+
+
+## Certification Path
+
+1. Cloud Practitioner - Done
+2. Solutions Architect Associate - Done
+3. Terraform  - Done
+4. Solutions Architect Professional - In progress
+5. DevOps Engineer
+6. SysOps Administrator Associate
+7. Developer
+8. Security
+9. Advanced Networking
