@@ -1,10 +1,16 @@
 # Terraform
 
-#### How Terraform Works
+#### Installation and Configuration Guide
 
-Here is a g
+* Install ->AWS CLI
+* Install -> Terraform
+* Install -> Git Desktop
+* Install -> MS Visual Studio
+* On Terminal -> aws configure (add profiles like DEV, TEST, QA, PROD)
+* Save terraform backend on S3 + dynamo DB on Main AWS account&#x20;
+*
 
-####
+#### Terraform AWS Config&#x20;
 
 #### Install Terraform + autocomplete &#x20;
 
@@ -19,7 +25,7 @@ Here is a g
 * Generate and configure AWS Credentials
 * Create Input Variables
 * Set Locals
-* Creat Outputs&#x20;
+* Create Outputs&#x20;
 
 
 

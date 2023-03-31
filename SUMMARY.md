@@ -1,8 +1,8 @@
 # Table of contents
 
 * [000 - Laptop Setup](README.md)
-* [00 - Skills](README.md)
-* [1. Programming Languages](<README (1).md>)
+* [00 - Skills](<README (1).md>)
+* [1. Programming Languages](<README (1) (2).md>)
   * [Java Script](1.-programming-languages/java-script.md)
   * [Python](<README (1) (1).md>)
   * [Bash](4.-servers/bash.md)
