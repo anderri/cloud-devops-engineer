@@ -73,3 +73,5 @@
   * [Azure](8.-clouds/azure.md)
   * [GCP](8.-clouds/gcp.md)
 * [99 - Laptop Setup](99-laptop-setup.md)
+* [9 - Projects](9-projects/README.md)
+  * [WordPress - English](9-projects/wordpress-english.md)
