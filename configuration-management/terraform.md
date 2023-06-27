@@ -107,9 +107,9 @@ Terraform Backends
 
 
 
-****
 
-****
+
+
 
 * **String**
   * **Chomp:** removes newline characters at the end of a string. \
@@ -285,7 +285,7 @@ Generate hashes and cryptographic strings.&#x20;
 * **uuid**
 * **uuidv5**
 
-&#x20;****&#x20;
+&#x20;
 
 #### IP Network **Functions**
 

@@ -1,14 +1,12 @@
 # Table of contents
 
-* [000 - Laptop Setup](README.md)
-* [00 - Skills](<README (1).md>)
+* [0 - Skills](README.md)
 * [1. Programming Languages](<README (1) (2).md>)
   * [Python](<README (1) (1).md>)
   * [Bash](4.-servers/bash.md)
   * [PowerShell](4.-servers/powershell.md)
   * [YAML](files-extensions/yaml.md)
   * [JSON](files-extensions/json.md)
-  * [Java Script](1.-programming-languages/java-script.md)
 * [2. OS - Server Administration](2.-os-server-administration/README.md)
   * [Linux](2.-os-server-administration/linux.md)
   * [Windows](2.-os-server-administration/windows.md)
@@ -67,18 +65,4 @@
 * [8. Infrastructure as Code - IaC](5.-infrastructure-as-code/configuration-management/README.md)
   * [Terraform](configuration-management/terraform.md)
   * [Ansible](5.-infrastructure-as-code/configuration-management/ansible.md)
-* [Mid Engineer](mid-engineer.md)
-
-## DevOps
-
-* [1 - Plan](devops/1-plan.md)
-
-***
-
-* [2 - Code](2-code.md)
-* [3 - Build](3-build.md)
-* [4 - Test](4-test.md)
-* [5 - Release](5-release.md)
-* [6 - Deploy](6-deploy.md)
-* [7 - Operate](7-operate.md)
-* [8 - Monitor](8-monitor.md)
+* [99 - Laptop Setup](99-laptop-setup.md)

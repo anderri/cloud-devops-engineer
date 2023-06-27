@@ -71,7 +71,7 @@ A place for developers to store container images and share them out via a proces
 
 Version: 5.0.5&#x20;
 
-****
+
 
 ![](../.gitbook/assets/Docker-commands-cheat-sheet-by-PhoenixNAP-scaled.jpeg)
 
