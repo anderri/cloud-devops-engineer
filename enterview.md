@@ -1,3 +1,8 @@
+---
+description: >-
+  https://www.linkedin.com/feed/update/urn:li:activity:7077627017273229312/?utm_source=share&utm_medium=member_ios
+---
+
 # Enterview
 
 Preparing for an interview?\
