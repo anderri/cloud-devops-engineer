@@ -4,4 +4,4 @@
 
 {% embed url="https://www.youtube.com/watch?v=lSnbOtw4izI" %}
 
-![](../.gitbook/assets/Github.drawio.png)
+![](../../.gitbook/assets/Github.drawio.png)

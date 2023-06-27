@@ -16,7 +16,7 @@ Smaller Size = MB vs GB \
 Speed: Faster \
 Compatibility: Can run on many different OS Host&#x20;
 
-![](<../.gitbook/assets/Screen Shot 2022-08-12 at 1.12.21 pm.png>)
+![](<../../.gitbook/assets/Screen Shot 2022-08-12 at 1.12.21 pm.png>)
 
 What problems do containers solve? \
 \
@@ -65,7 +65,7 @@ A place for developers to store container images and share them out via a proces
 
 **Image vs Container**
 
-![](<../.gitbook/assets/Screen Shot 2022-08-12 at 1.20.53 pm.png>)
+![](<../../.gitbook/assets/Screen Shot 2022-08-12 at 1.20.53 pm.png>)
 
 **Version and Tag**&#x20;
 
@@ -73,7 +73,7 @@ Version: 5.0.5&#x20;
 
 
 
-![](../.gitbook/assets/Docker-commands-cheat-sheet-by-PhoenixNAP-scaled.jpeg)
+![](../../.gitbook/assets/Docker-commands-cheat-sheet-by-PhoenixNAP-scaled.jpeg)
 
 ## Docker Basic Commands <a href="#title" id="title"></a>
 
