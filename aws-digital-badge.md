@@ -1,6 +1,6 @@
 # AWS Digital Badge
 
-[https://www.awseducate.com/student/s/](https://www.awseducate.com/student/s/)
+
 
 * Cloud Operations (Lab) - 2 hours
 * AWS Partner: Migration Program - 30min
@@ -10,4 +10,8 @@
   \
   [https://explore.skillbuilder.aws/](https://explore.skillbuilder.aws/)\
   \
-  [https://www.skillfinder.com.au/](https://www.skillfinder.com.au/)
+  [https://www.skillfinder.com.au/](https://www.skillfinder.com.au/)\
+  \
+  [https://explore.skillbuilder.aws/learn/public/catalog/view/15?ctldoc-catalog-0=l-\_en](https://explore.skillbuilder.aws/learn/public/catalog/view/15?ctldoc-catalog-0=l-\_en)\
+  \
+  [https://www.awseducate.com/student/s/](https://www.awseducate.com/student/s/)
