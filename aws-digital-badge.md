@@ -14,4 +14,6 @@
   \
   [https://explore.skillbuilder.aws/learn/public/catalog/view/15?ctldoc-catalog-0=l-\_en](https://explore.skillbuilder.aws/learn/public/catalog/view/15?ctldoc-catalog-0=l-\_en)\
   \
-  [https://www.awseducate.com/student/s/](https://www.awseducate.com/student/s/)
+  [https://www.awseducate.com/student/s/](https://www.awseducate.com/student/s/)\
+  \
+  [https://aws.amazon.com/training/digital/aws-cloud-quest/](https://aws.amazon.com/training/digital/aws-cloud-quest/)
