@@ -76,3 +76,4 @@
 * [9 - Projects](9-projects/README.md)
   * [WordPress - English](9-projects/wordpress-english.md)
 * [Enterview](enterview.md)
+* [AWS Digital Badge](aws-digital-badge.md)
