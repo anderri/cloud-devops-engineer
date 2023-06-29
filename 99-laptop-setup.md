@@ -19,7 +19,9 @@
 | Sublime Text        | brew install --cask sublime-text                                                                                                                 |
 | Slacker             |                                                                                                                                                  |
 | EaseUS RecExperts   |                                                                                                                                                  |
-| Stream Deck         | <p>brew install --cask elga</p><p>to-stream-deck</p>                                                                                             |
+| Stream Deck         | brew install --cask elgato-stream-deck                                                                                                           |
 | Zoom                | brew install --cask zoom                                                                                                                         |
 | OBS                 | brew install --cask obs                                                                                                                          |
+| Slack               | brew install --cask slack                                                                                                                        |
+| Chrome              | brew install --cask google-chrome                                                                                                                |
 
