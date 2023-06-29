@@ -8,13 +8,13 @@ description: Package Manager for macOS and Linu
 
 ### Installation
 
-{% code title="brew" %}
+{% code title="Brew" %}
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 {% endcode %}
 
-{% code title="mas" %}
+{% code title="Mac App Store " %}
 ```
 brew install mas
 ```
