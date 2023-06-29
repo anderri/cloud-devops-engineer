@@ -24,7 +24,7 @@ brew install mas
 
 {% code title="bundle" %}
 ```
-brew bundle
+brew install --cask baudline
 ```
 {% endcode %}
 
