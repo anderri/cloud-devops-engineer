@@ -20,4 +20,6 @@
 | Slacker             |                                                                                                                                                  |
 | EaseUS RecExperts   |                                                                                                                                                  |
 | Stream Deck         | <p>brew install --cask elga</p><p>to-stream-deck</p>                                                                                             |
+| Zoom                | brew install --cask zoom                                                                                                                         |
+| OBS                 | brew install --cask obs                                                                                                                          |
 
