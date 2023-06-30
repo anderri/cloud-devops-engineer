@@ -27,4 +27,5 @@
 | Whatsapp            | brew install --cask whatsapp                                                                                                                     |
 | Cason EOS Utility   | brew install --cask canon-eos-utility                                                                                                            |
 | Vmware fusion       | brew install docker-machine-driver-vmware                                                                                                        |
+| Virtual Box 7       |                                                                                                                                                  |
 
