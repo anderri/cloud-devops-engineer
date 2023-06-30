@@ -25,4 +25,5 @@
 | Slack               | brew install --cask slack                                                                                                                        |
 | Chrome              | brew install --cask google-chrome                                                                                                                |
 | Whatsapp            | brew install --cask whatsapp                                                                                                                     |
+| Cason EOS Utility   | brew install --cask canon-eos-utility                                                                                                            |
 
