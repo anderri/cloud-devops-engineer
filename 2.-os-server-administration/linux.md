@@ -239,11 +239,11 @@ Once you are satisfied that the operating system indeed fits your needs, simply 
 
 Further details on trying and installing Linux can be found on this page at [**linux.com**](https://www.linux.com/learn/how-install-and-try-linux-absolutely-easiest-and-safest-way).
 
-***
+
 
 This overview provides a taste of what to expect from the Linux operating system. While it was once considered the operating system of experts or computer geeks, the newer, user-friendly distributions allow just about anyone to experiment with this powerful operating system. The links that are included in this article are a good starting point if you desire more thorough Linux knowledge. You just might find that Linux fills all of your computing needs and lets you escape from the monolithic major operating system vendors.
 
-***
+
 
 Copyright by comptechdoc.org
 
