@@ -18,6 +18,7 @@
     \- NACLS -> Create, edit inbound and outbound rules, associate w/ subnet.\
     \- IGW -> Create, Attach to VPC, \
     \- Route Table -> create 3, edit routes add igw to main, edit route add ngw to private.\
+    \- Nat Gateway -> create, update route table. \
     \
     \
     \
