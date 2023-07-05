@@ -1,9 +1,7 @@
 # Cloud DevOps Labs
 
-1. Create an architecture diagram on [https://app.diagrams.net/](https://app.diagrams.net/)\
-
-2.
-3.  Create the objects manually on the AWS console.\
+1. Create an architecture diagram on [https://app.diagrams.net/](https://app.diagrams.net/)
+2.  Create the objects manually on the AWS console.\
     \- VPC \
     \- Subnets&#x20;
 
@@ -18,15 +16,22 @@
     \- NACLS -> Create, edit inbound and outbound rules, associate w/ subnet.\
     \- IGW -> Create, Attach to VPC, \
     \- Route Table -> create 3, edit routes add igw to main, edit route add ngw to private.\
-    \- Nat Gateway -> create, update route table. \
-    \
-    \
+    \- Nat Gateway -> create, and update route table. \
     \
     \
     \
     \- EC2\
+    Create an EC2 on a private subnet. \
+    Error: Can't connect to the instance via console.\
+    \- Attached AmazonSSMManagedInstanceCore role\
+    \- Add RDP port on Nacls\
+    \- \
+    \
+    \
+    \
+    \
     \- ALB\
-    \- NAT Gateway\
+    \
 
 
 
