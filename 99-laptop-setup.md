@@ -1,33 +1,34 @@
 # 99 - Laptop Setup
 
-| Software            | Link                                                                                                                                             |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Homebrew            | Go to 2. Os - Server Administration/ Home Brew                                                                                                   |
-| Git                 | `$ brew install git`                                                                                                                             |
-| Office              | brew install --cask microsoft-office                                                                                                             |
-| MS Visual Studio    | brew install --cask visual-studio-code                                                                                                           |
-| Yaml Syntax Support | [https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) |
-| Online Yaml tools   | [https://onlineyamltools.com/edit-yaml](https://onlineyamltools.com/edit-yaml)                                                                   |
-| DBeaver             | brew install --cask dbeaver-community                                                                                                            |
-| Authy Desktop       | brew install --cask authy                                                                                                                        |
-| DisplayLink Manager |                                                                                                                                                  |
-| Github Desktop      |                                                                                                                                                  |
-| Keyboard Maestro    | brew install --cask keyboard-maestro                                                                                                             |
-| Ledger Live         | brew install --cask ledger-live                                                                                                                  |
-| Magnet              |                                                                                                                                                  |
-| Podman Desktop      |                                                                                                                                                  |
-| Sublime Text        | brew install --cask sublime-text                                                                                                                 |
-| Slacker             |                                                                                                                                                  |
-| EaseUS RecExperts   |                                                                                                                                                  |
-| Stream Deck         | brew install --cask elgato-stream-deck                                                                                                           |
-| Zoom                | brew install --cask zoom                                                                                                                         |
-| OBS                 | brew install --cask obs                                                                                                                          |
-| Slack               | brew install --cask slack                                                                                                                        |
-| Chrome              | brew install --cask google-chrome                                                                                                                |
-| Whatsapp            | brew install --cask whatsapp                                                                                                                     |
-| Cason EOS Utility   | brew install --cask canon-eos-utility                                                                                                            |
-| Vmware fusion       | brew install docker-machine-driver-vmware                                                                                                        |
-| Virtual Box 7       |                                                                                                                                                  |
-| Vagrant             | brew install vagrant                                                                                                                             |
-| Teams               | brew install --cask microsoft-teams                                                                                                              |
+| Software            | Link                                                                                                                                                                                                            |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Homebrew            | Go to 2. Os - Server Administration/ Home Brew                                                                                                                                                                  |
+| Git                 | `$ brew install git`                                                                                                                                                                                            |
+| Office              | brew install --cask microsoft-office                                                                                                                                                                            |
+| MS Visual Studio    | brew install --cask visual-studio-code                                                                                                                                                                          |
+| Yaml Syntax Support | [https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)                                                                |
+| Online Yaml tools   | [https://onlineyamltools.com/edit-yaml](https://onlineyamltools.com/edit-yaml)                                                                                                                                  |
+| DBeaver             | brew install --cask dbeaver-community                                                                                                                                                                           |
+| AWS CLI             | curl "https://awscli.amazonaws.com/AWSCLIV2.pkg" -o "AWSCLIV2.pkg" sudo installer -pkg AWSCLIV2.pkg -target /                                                                                                   |
+| Authy Desktop       | brew install --cask authy                                                                                                                                                                                       |
+| DisplayLink Manager |                                                                                                                                                                                                                 |
+| Github Desktop      |                                                                                                                                                                                                                 |
+| Keyboard Maestro    | brew install --cask keyboard-maestro                                                                                                                                                                            |
+| Ledger Live         | brew install --cask ledger-live                                                                                                                                                                                 |
+| Magnet              |                                                                                                                                                                                                                 |
+| Podman Desktop      |                                                                                                                                                                                                                 |
+| Sublime Text        | brew install --cask sublime-text                                                                                                                                                                                |
+| Slacker             |                                                                                                                                                                                                                 |
+| EaseUS RecExperts   |                                                                                                                                                                                                                 |
+| Stream Deck         | brew install --cask elgato-stream-deck                                                                                                                                                                          |
+| Zoom                | brew install --cask zoom                                                                                                                                                                                        |
+| OBS                 | brew install --cask obs                                                                                                                                                                                         |
+| Slack               | brew install --cask slack                                                                                                                                                                                       |
+| Chrome              | brew install --cask google-chrome                                                                                                                                                                               |
+| Whatsapp            | brew install --cask whatsapp                                                                                                                                                                                    |
+| Cason EOS Utility   | brew install --cask canon-eos-utility                                                                                                                                                                           |
+| Vmware fusion       | <p><a href="https://customerconnect.vmware.com/en/evalcenter?p=fusion-player-personal-13">https://customerconnect.vmware.com/en/evalcenter?p=fusion-player-personal-13</a><br>0H60H-6AK16-089Q2-080K2-ATH30</p> |
+| Virtual Box 7       |                                                                                                                                                                                                                 |
+| Vagrant             | brew install vagrant                                                                                                                                                                                            |
+| Teams               | brew install --cask microsoft-teams                                                                                                                                                                             |
 
