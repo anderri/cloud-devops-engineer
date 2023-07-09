@@ -32,4 +32,5 @@
 | Vagrant             | brew install vagrant                                                                                                                                                                                            |
 | Teams               | brew install --cask microsoft-teams                                                                                                                                                                             |
 | Docker              | brew install docker                                                                                                                                                                                             |
+| Docker Desktop      | [https://docs.docker.com/desktop/install/mac-install/](https://docs.docker.com/desktop/install/mac-install/)                                                                                                    |
 
