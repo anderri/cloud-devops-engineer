@@ -31,4 +31,5 @@
 | Virtual Box 7       |                                                                                                                                                                                                                 |
 | Vagrant             | brew install vagrant                                                                                                                                                                                            |
 | Teams               | brew install --cask microsoft-teams                                                                                                                                                                             |
+| Docker              | brew install docker                                                                                                                                                                                             |
 
