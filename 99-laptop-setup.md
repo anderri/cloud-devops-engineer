@@ -33,5 +33,5 @@
 | Teams               | brew install --cask microsoft-teams                                                                                                                                                                             |
 | Docker              | brew install docker                                                                                                                                                                                             |
 | Docker Desktop      | [https://docs.docker.com/desktop/install/mac-install/](https://docs.docker.com/desktop/install/mac-install/)                                                                                                    |
-| Terraform           | brew install terraform                                                                                                                                                                                          |
+| Terraform           | [https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli#install-terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli#install-terraform)          |
 
