@@ -357,13 +357,25 @@ Booking Your Exam
 
 
 
-#### Create a Terraform workspace
+#### Terraform workspace
+
+{% embed url="https://www.youtube.com/watch?v=JmfEKEYdxKU&t=987s" %}
 
 
 
-#### Migrate local to remote workspace
+```
+// Terraform Workspace Commands
+
+terraform workspace list 
+
+terraform workspace new dev
+
+terraform workspace new qa
+
+terraform workspace new prod
 
 
+```
 
 #### Migrate local to remote workspace
 
