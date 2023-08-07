@@ -2,9 +2,9 @@
 
 * [0 - Skills](README.md)
 * [1. Programming Languages](<README (1) (2).md>)
-  * [Python](<README (1) (1).md>)
   * [Bash](4.-servers/bash.md)
   * [PowerShell](4.-servers/powershell.md)
+  * [Python](<README (1) (1).md>)
   * [YAML](files-extensions/yaml.md)
   * [JSON](files-extensions/json.md)
 * [2. OS - Server Administration](2.-os-server-administration/README.md)
