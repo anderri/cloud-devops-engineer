@@ -34,4 +34,16 @@
 32. **exit**: Exit the current shell.
 33. **sudo**: Execute a command as the superuser.
 
+
+
+GREP and Regex
+
+{% embed url="https://www.youtube.com/watch?v=aZGUBSQDAdI" %}
+
+
+
+
+
+
+
 {% embed url="https://exercism.org/tracks/bash" %}
