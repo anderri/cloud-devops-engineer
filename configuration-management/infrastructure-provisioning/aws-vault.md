@@ -10,6 +10,8 @@ aws-vault reference:
 
 [Aws-vault - Secure Access To Multiple AWS Accounts 2023](https://hands-on.cloud/how-to-securly-manage-connections-to-multiple-aws-accounts/)
 
+[https://hands-on.cloud/aws-vault-tutorial/](https://hands-on.cloud/aws-vault-tutorial/)
+
 [https://faun.pub/step-by-step-aws-iam-assumerole-with-aws-vault-configuration-9d5986373c33](https://faun.pub/step-by-step-aws-iam-assumerole-with-aws-vault-configuration-9d5986373c33)
 
 &#x20;
