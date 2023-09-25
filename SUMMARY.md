@@ -43,6 +43,7 @@
     * [Kubernetes](configuration-management/container-orchestrators/kubernetes.md)
     * [ECR - Amazon Container Repository](configuration-management/container-orchestrators/ecr-amazon-container-repository.md)
   * [Infrastructure Provisioning](configuration-management/infrastructure-provisioning/README.md)
+    * [Aws-vault](configuration-management/infrastructure-provisioning/aws-vault.md)
     * [Terraform](configuration-management/infrastructure-provisioning/terraform.md)
     * [CloudFormation](configuration-management/infrastructure-provisioning/cloudformation.md)
 * [6. CI/CD Pipeline](6.-ci-cd-pipeline/README.md)
