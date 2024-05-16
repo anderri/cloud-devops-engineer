@@ -4,9 +4,9 @@
 
 ![](.gitbook/assets/image.png)
 
-![](<.gitbook/assets/image (2).png>)
 
-![](<.gitbook/assets/image (4).png>)
+
+
 
 
 
@@ -85,3 +85,11 @@ Containers
 &#x20;   \- Able to build and modify docker images, follow best practice.
 
 &#x20;   \- Able to run containers using either docker or kubernetes.
+
+
+
+
+
+Creating a roadmap for becoming a DevOps engineer involves breaking down the learning process into manageable stages. Here's a structured roadmap:
+
+####

@@ -1,6 +1,7 @@
 # Table of contents
 
 * [0 - Skills](README.md)
+* [DevOps Tranning Course](devops-tranning-course.md)
 * [1. Programming Languages](<README (1) (2).md>)
   * [Bash](4.-servers/bash.md)
   * [PowerShell](4.-servers/powershell.md)
@@ -79,3 +80,4 @@
   * [WordPress - English](9-projects/wordpress-english.md)
 * [Enterview](enterview.md)
 * [Extra](extra.md)
+* [Page](page.md)
